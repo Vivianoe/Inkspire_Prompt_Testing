@@ -1,6 +1,6 @@
-# OpenAI API Test Runner - Multi-Round Testing
+# OpenAI API Prompt Testing Project
 
-This project allows you to run comprehensive tests with the OpenAI API using multiple prompt templates, science texts, and theoretical frameworks across three rounds of testing.
+This project enables structured, multi-round prompt testing with the OpenAI API. It supports batch testing of multiple prompt templates, science texts, and theoretical frameworks, and automatically saves all results for later analysis.
 
 ## Project Structure
 
@@ -11,145 +11,110 @@ This project allows you to run comprehensive tests with the OpenAI API using mul
 │   ├── template1.txt
 │   ├── template2.txt
 │   ├── template3.txt
-│   ├── template4.txt
-│   └── template5.txt
+│   └── template4.txt
 ├── variables/
 │   ├── science_text/
-│   │   ├── science_text_1.txt
-│   │   └── science_text_2.txt
+│   │   ├── science_text1.txt
+│   │   ├── science_text2.txt
+│   │   └── science_text3.txt
 │   └── theory/
 │       ├── theory_1.txt
-│       └── theory_2.txt
+│       ├── theory_2.txt
+│       └── theory_3.txt
 ├── results/
 │   ├── round1/
 │   ├── round2/
 │   └── round3/
-├── README.md
+├── run_tests.ipynb
 ├── requirements.txt
-└── run_tests.py
+└── README.md
 ```
 
 ## Directory Descriptions
 
-- `prompts/`: Contains text files that serve as templates for the OpenAI API prompts
-- `variables/science_text/`: Contains different science texts to be used in testing
-- `variables/theory/`: Contains different theoretical frameworks and descriptions
-- `results/round1/`, `results/round2/`, `results/round3/`: Store the output from each round of testing
-- `run_tests.py`: The main script to execute all rounds of tests
+- `prompts/`: Prompt templates for the OpenAI API. Each template is a `.txt` file with placeholders for variables.
+- `variables/science_text/`: Science text files (e.g., `science_text1.txt`, `science_text2.txt`, ...).
+- `variables/theory/`: Theoretical framework files (e.g., `theory_1.txt`, `theory_2.txt`, ...).
+- `results/round1/`, `results/round2/`, `results/round3/`: Output directories for each test round. Each result file contains the full prompt and the API response.
+- `run_tests.ipynb`: Jupyter notebook for running and analyzing prompt tests interactively.
+- `requirements.txt`: Python dependencies.
 
 ## Setup
 
-1. **Clone the repository** (if you haven't already):
+1. **Clone the repository**
     ```bash
     git clone <repository-url>
     cd <repository-directory>
     ```
-
-2. **Create a virtual environment** (recommended):
+2. **Create a virtual environment** (recommended)
     ```bash
     python3 -m venv venv
     source venv/bin/activate
     ```
-
-3. **Install dependencies**:
+3. **Install dependencies**
     ```bash
     pip install -r requirements.txt
     ```
-
-4. **Create a `.env` file**:
-    Create a file named `.env` in the root of the project and add your OpenAI API key:
+4. **Create a `.env` file**
+    Add your OpenAI API key:
     ```
-    OPENAI_API_KEY="your-openai-api-key-goes-here"
+    OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     ```
 
-## How to Run
+## How to Use
 
-### Basic Usage
-Run all three rounds of testing:
-```bash
-python run_tests.py
-```
+### Interactive Notebook
+- Open `run_tests.ipynb` in Jupyter Lab/Notebook.
+- Follow the notebook cells to run multi-round prompt tests and save results automatically.
 
-### What the Script Does
-
-1. **Loads all files**: 
-   - All prompt templates from `prompts/`
-   - All science texts from `variables/science_text/`
-   - All theory frameworks from `variables/theory/`
-
-2. **Runs comprehensive tests**:
-   - For each round (1, 2, 3)
-   - For each prompt template
-   - For each science text
-   - For each theory framework
-   - Creates all possible combinations
-
-3. **Saves detailed results**:
-   - Complete prompt content
-   - API response
-   - Test metadata (timestamp, files used, model)
-   - Results saved in `results/roundX/` with descriptive filenames
+### Project Logic
+- **Round 1:**
+  - Test `template1.txt`, `template2.txt`, `template3.txt`.
+  - For each template, use `theory_1.txt`.
+  - For each template, iterate over all science texts (`science_text1.txt`, `science_text2.txt`, `science_text3.txt`).
+  - Results are saved in `results/round1/`.
+- **Round 2:**
+  - Test only `template3.txt`.
+  - For `template3.txt`, iterate over all science texts and all theory files (`theory_1.txt`, `theory_2.txt`, `theory_3.txt`).
+  - Results are saved in `results/round2/`.
+- **Round 3:**
+  - Reserved for future custom tests.
 
 ### Output Format
-
 Each result file contains:
 ```
-ROUND X TEST RESULTS
-==================================================
-
-Timestamp: YYYYMMDD_HHMMSS
-Prompt Template: template1.txt
-Science Text: science_text_1.txt
-Theory Framework: theory_1.txt
-Model: gpt-3.5-turbo
-
-COMPLETE PROMPT:
+PROMPT:
 ==============================
 [Full formatted prompt content]
 
-==============================
-
-API RESPONSE:
+RESULT:
 ==============================
 [Complete API response]
-
-==================================================
 ```
 
 ## Customization
 
-### Adding New Templates
-1. Create new `.txt` files in the `prompts/` directory
-2. Include `{text}` and `{theory}` placeholders as needed
-3. Add comments starting with `#` for documentation
+- **Add new prompt templates:** Place `.txt` files in `prompts/` with `{text}` and `{theory}` placeholders.
+- **Add new science texts:** Place `.txt` files in `variables/science_text/`.
+- **Add new theories:** Place `.txt` files in `variables/theory/`.
+- **Modify test logic:** Edit `run_tests.ipynb` to change which templates, texts, or theories are used in each round.
 
-### Adding New Science Texts
-1. Create new `.txt` files in `variables/science_text/`
-2. Include your science content
+## Template Format Example
 
-### Adding New Theories
-1. Create new `.txt` files in `variables/theory/`
-2. Include your theoretical framework descriptions
-
-### Modifying Test Configuration
-Edit `run_tests.py` to change:
-- `MODEL_ENGINE`: Change the OpenAI model (e.g., "gpt-4")
-- Test rounds: Modify the round numbers in the main function
-- File patterns: Change the `*.txt` pattern if needed
-
-## Template Format
-
-Templates should follow this format:
 ```txt
 # Template X: Description
-# 🟢 Technique: Technique description
-# Purpose: Template purpose
-# Usage: Variable usage instructions
-# Style: Template style description
+# Technique: ...
+# Purpose: ...
+# Usage: ...
+# Style: ...
 
-[Your prompt content with {text} and {theory} placeholders]
+[Prompt instructions with {text} and {theory} placeholders]
 
 # End of Template X
 ```
 
-The script automatically removes comment lines (starting with `#`) before processing. 
+> The notebook automatically removes comment lines (starting with `#`) before sending prompts to the API.
+
+## License
+
+This project is for research and educational use. Please comply with OpenAI's API terms of service. 
