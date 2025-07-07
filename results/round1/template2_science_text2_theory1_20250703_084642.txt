@@ -1,0 +1,131 @@
+PROMPT:
+==============================
+You are an expert college science instructor with deep knowledge of the Reading Apprenticeship framework (Greenleaf et al., 2002) and the Conceptual Framework for Disciplinary Literacy (Shanahan & Shanahan, 2012). Your goal is to create high-quality scaffolds to support students’ engagement with scientific texts.
+Please complete the following tasks step by step:
+Step 1: Carefully analyze the scientific text to:
+Identify the key concepts and ideas.
+Describe any causal reasoning or logical argumentation.
+Highlight the use of evidence, data, or examples that support claims.
+Step 2: Using insights from both the Reading Apprenticeship framework and the Conceptual Framework for Disciplinary Literacy, design scaffolding questions, prompts, and annotations. Ensure that each item clearly aligns with specific elements of these frameworks and supports disciplinary literacy development.
+Step 3: Based on your analysis and theoretical alignment, generate three categories of questions and prompts. For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to:
+Before Reading Questions and Prompts
+Generate:
+- 5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge relevant to the text.
+- 5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+In-Text Questions and Prompts
+Generate:
+- 5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes. For each annotation, provide the specific text excerpt and the related question.
+- 5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies while reading. For each annotation, provide the specific text excerpt and the related prompt.
+After Reading Questions and Prompts
+Generate:
+- 5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+- 5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+Important: Make sure your output is organized clearly under each section and that all questions and prompts are specific, actionable, and explicitly connected to both theoretical frameworks.
+that prompts  that help students identify claims, mechanisms, and assumptions
+Science Text:
+"""
+Title: Emergence of Antibiotic Resistance
+Antibiotic resistance arises when bacteria evolve mechanisms to survive exposure to antibiotics that previously killed them or inhibited their growth. Resistance can occur through spontaneous genetic mutations or horizontal gene transfer, such as the exchange of plasmids carrying resistance genes. The widespread and often inappropriate use of antibiotics in medicine and agriculture accelerates this process by applying selective pressure that favors resistant strains. As resistant bacteria proliferate, infections become harder to treat, requiring higher doses or alternative therapies. The rise of multidrug-resistant pathogens poses a significant public health threat, prompting global efforts to develop new antibiotics and implement stewardship programs to curb misuse.
+
+"""
+Theoretical Frameworks:
+"""
+# Names only
+Reading apprenticeship framework by Greenleaf et al. 2002; CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012
+"""
+
+RESULT:
+==============================
+Certainly! Below is an organized response that covers each of the requested steps, aligning with the Reading Apprenticeship framework by Greenleaf et al. (2002) and the Conceptual Framework for Disciplinary Literacy by Shanahan & Shanahan (2012).
+
+---
+
+### Step 1: Text Analysis
+
+#### Key Concepts and Ideas
+- Antibiotic resistance as a result of bacterial evolution.
+- Mechanisms of resistance: genetic mutations and horizontal gene transfer.
+- Impact of antibiotic misuse in medicine and agriculture.
+- Consequences of resistance: harder-to-treat infections and the rise of multidrug-resistant pathogens.
+- Importance of new antibiotic development and stewardship programs.
+
+#### Causal Reasoning and Logical Argumentation
+- Exposure to antibiotics creates selective pressure, favoring resistant strains.
+- Misuse and overuse of antibiotics accelerate resistance development.
+- As resistance grows, treatment requires alternative strategies, creating a public health threat.
+
+#### Use of Evidence, Data, or Examples
+- Mention of "spontaneous genetic mutations" and "horizontal gene transfer" as evidence of resistance mechanisms.
+- Example of human activity as a factor: "widespread and often inappropriate use of antibiotics."
+
+---
+
+### Step 2: Scaffolding Design
+
+#### Before Reading Questions and Prompts
+
+##### Close Reading Questions
+1. What do we already know about antibiotic usage in medicine and agriculture? (Related to prior knowledge activation - Reading Apprenticeship Framework)
+2. How might bacteria adapt to environmental pressures, such as antibiotic exposure? (Conceptual Framework for Disciplinary Literacy - Prior knowledge in science inquiry)
+3. Why is understanding antibiotic resistance important for public health? (Reading Apprenticeship Framework - Establish a purpose for reading)
+4. Can you think of conditions that might promote or hinder bacterial evolution? (Higher-order scientific reasoning - Conceptual Framework)
+5. What potential consequences can arise from not using antibiotics responsibly? (Reading Apprenticeship - Consequence Prediction)
+
+##### Higher-Order Prompts
+1. Before we read, consider the role of human behavior in natural selection. How might it affect the evolution of bacteria? (Critical thinking - Reading Apprenticeship)
+2. When you read scientific texts, what strategies help you connect new information to what you already know? (Strategic reading approach - Reading Apprenticeship)
+3. Consider the implications of antibiotic resistance at both an individual and societal level. (Higher-order analysis - Conceptual Framework)
+4. Think about how scientists might gather data to study antibiotic resistance. (Scientific method connection - Conceptual Framework)
+5. How do global coordination efforts, such as stewardship programs, influence scientific research? (Interdisciplinary understanding - Conceptual Framework)
+
+#### In-Text Questions and Prompts
+
+##### Annotations with Embedded Questions
+1. **Text Excerpt:** "Resistance can occur through spontaneous genetic mutations or horizontal gene transfer."
+   - **Question:** How might these biological processes compare to other evolutionary mechanisms you've learned about? (Scientific inquiry - Conceptual Framework)
+   
+2. **Text Excerpt:** "The widespread and often inappropriate use of antibiotics in medicine and agriculture accelerates this process."
+   - **Question:** What evidence might researchers use to determine the impact of antibiotic misuse? (Inquiry-based approach - Reading Apprenticeship)
+
+3. **Text Excerpt:** "As resistant bacteria proliferate, infections become harder to treat."
+   - **Question:** Why do you think resistant bacteria make infections harder to treat, and what does this imply for global health? (Causal reasoning - Conceptual Framework)
+
+4. **Text Excerpt:** "The rise of multidrug-resistant pathogens poses a significant public health threat."
+   - **Question:** What strategies might health organizations implement to address this threat? (Strategic application - Reading Apprenticeship)
+
+5. **Text Excerpt:** "global efforts to develop new antibiotics and implement stewardship programs to curb misuse."
+   - **Question:** How do these strategies reflect an understanding of the problem's scale and complexity? (Comprehension and connection - Conceptual Framework)
+
+##### Annotations with Embedded Prompts
+1. **Text Excerpt:** "Antibiotic resistance arises when bacteria evolve mechanisms to survive exposure."
+   - **Prompt:** Visualize the process of bacterial evolution in response to selective pressures and compare it to natural selection. (Visualization - Reading Apprenticeship)
+   
+2. **Text Excerpt:** "Resistance can occur through spontaneous genetic mutations or horizontal gene transfer."
+   - **Prompt:** Draw parallels between this concept and mutation processes in larger organisms. What does this suggest about the universality of genetic change? (Synthesis - Conceptual Framework)
+
+3. **Text Excerpt:** "Misuse accelerates this process by applying selective pressure."
+   - **Prompt:** Reflect on how data collection and analysis might help identify misuse patterns and inform policy changes. (Data analysis - Reading Apprenticeship)
+
+4. **Text Excerpt:** "Requiring higher doses or alternative therapies."
+   - **Prompt:** Envision scenarios where these alternative therapies might be necessary. How do they differ from standard treatments? (Scenario-based thinking - Conceptual Framework)
+
+5. **Text Excerpt:** "Efforts to develop new antibiotics."
+   - **Prompt:** Evaluate the challenges researchers may face in creating new antibiotics. Consider resources, time, and scientific obstacles. (Critical evaluation - Reading Apprenticeship)
+
+#### After Reading Questions and Prompts
+
+##### Reflective Questions
+1. Summarize the key factors contributing to antibiotic resistance discussed in the text. (Reading Apprenticeship - Summarization)
+2. How do horizontal gene transfer and genetic mutations each play a role in resistance? (Disciplinary understanding - Conceptual Framework)
+3. Reflect on the societal implications of antibiotic misuse. How does this affect public health strategies? (Societal Impact - Reading Apprenticeship)
+4. How might stewardship programs contribute to slowing the emergence of antibiotic resistance? (Program Evaluation - Conceptual Framework)
+5. What open questions remain about antibiotic resistance that might require further research? (Research Gaps - Reading Apprenticeship)
+
+##### Reflective Prompts
+1. Considering what you've learned, how would you explain antibiotic resistance to someone unfamiliar with the concept? (Communication skill - Reading Apprenticeship)
+2. Reflect on how scientific literacy can empower individuals to make informed decisions about antibiotic use. (Empowerment - Conceptual Framework)
+3. Identify how understanding the mechanisms of resistance can guide future scientific inquiries and medical practices. (Guided inquiry - Reading Apprenticeship)
+4. Explore how a multidisciplinary approach involving both scientists and policymakers might address antibiotic resistance more effectively. (Interdisciplinary collaboration - Conceptual Framework)
+5. How can you apply the scientific inquiry process observed in the text to understand other biological phenomena? (Transferable Skills - Conceptual Framework)
+
+By carefully aligning the scaffolds with both the Reading Apprenticeship Framework and the Conceptual Framework for Disciplinary Literacy, this approach aids students in developing deeper scientific literacy and critical thinking skills.

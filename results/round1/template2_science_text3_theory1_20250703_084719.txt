@@ -1,0 +1,129 @@
+PROMPT:
+==============================
+You are an expert college science instructor with deep knowledge of the Reading Apprenticeship framework (Greenleaf et al., 2002) and the Conceptual Framework for Disciplinary Literacy (Shanahan & Shanahan, 2012). Your goal is to create high-quality scaffolds to support students’ engagement with scientific texts.
+Please complete the following tasks step by step:
+Step 1: Carefully analyze the scientific text to:
+Identify the key concepts and ideas.
+Describe any causal reasoning or logical argumentation.
+Highlight the use of evidence, data, or examples that support claims.
+Step 2: Using insights from both the Reading Apprenticeship framework and the Conceptual Framework for Disciplinary Literacy, design scaffolding questions, prompts, and annotations. Ensure that each item clearly aligns with specific elements of these frameworks and supports disciplinary literacy development.
+Step 3: Based on your analysis and theoretical alignment, generate three categories of questions and prompts. For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to:
+Before Reading Questions and Prompts
+Generate:
+- 5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge relevant to the text.
+- 5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+In-Text Questions and Prompts
+Generate:
+- 5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes. For each annotation, provide the specific text excerpt and the related question.
+- 5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies while reading. For each annotation, provide the specific text excerpt and the related prompt.
+After Reading Questions and Prompts
+Generate:
+- 5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+- 5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+Important: Make sure your output is organized clearly under each section and that all questions and prompts are specific, actionable, and explicitly connected to both theoretical frameworks.
+that prompts  that help students identify claims, mechanisms, and assumptions
+Science Text:
+"""
+Title: Mechanisms of Plate Tectonics
+The theory of plate tectonics describes the large-scale movement of Earth's lithospheric plates. These rigid plates float on the semi-fluid asthenosphere and interact at plate boundaries, leading to geological phenomena such as earthquakes, mountain building, and volcanic activity. Convergent boundaries occur when plates collide, resulting in subduction zones or continental uplift. Divergent boundaries form where plates move apart, allowing magma to rise and create new crust at mid-ocean ridges. Transform boundaries involve plates sliding past each other horizontally, producing fault lines like California’s San Andreas Fault. Plate tectonics explains the distribution of continents, ocean basins, and the patterns of seismic activity observed worldwide.
+
+"""
+Theoretical Frameworks:
+"""
+# Names only
+Reading apprenticeship framework by Greenleaf et al. 2002; CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012
+"""
+
+RESULT:
+==============================
+To scaffold students’ engagement with the provided scientific text “Mechanisms of Plate Tectonics” using the Reading Apprenticeship Framework (Greenleaf et al., 2002) and the Conceptual Framework for Disciplinary Literacy (Shanahan & Shanahan, 2012), we’ll address each step as follows:
+
+### Step 1: Text Analysis
+
+**Key Concepts and Ideas:**
+- Plate tectonics theory
+- Lithospheric plates and asthenosphere interaction
+- Types of plate boundaries: convergent, divergent, transform
+- Geological phenomena: earthquakes, mountain building, volcanic activity
+- Earth’s geographical features: distribution of continents, ocean basins, seismic activity
+
+**Causal Reasoning and Logical Argumentation:**
+- Convergent boundaries cause geological phenomena through collision, creating subduction zones or uplift.
+- Divergent boundaries lead to the formation of new crust due to magma rising at mid-ocean ridges.
+- Transform boundaries cause fault lines through horizontal sliding of plates.
+
+**Use of Evidence, Data, or Examples:**
+- Examples of geological phenomena such as the California’s San Andreas Fault.
+- Explanation of plate boundaries and their impacts on Earth's structure and seismic activity distribution.
+
+### Step 2: Designing Scaffolding Questions, Prompts, and Annotations
+
+Aligning with the theoretical frameworks:
+
+**Reading Apprenticeship Framework**:
+- Element: Social and personal dimensions, cognitive strategies, metacognition.
+
+**Conceptual Framework for Disciplinary Literacy**:
+- Element: Engaging with discipline-specific text structures, using discipline-specific inquiry processes.
+
+### Step 3: Categories of Questions and Prompts
+
+#### Before Reading Questions and Prompts
+
+1. **Close Reading Questions:**
+   - What do you already know about the movement of Earth's surface and its impact on geographical features? (Activates prior knowledge - Reading Apprenticeship)
+   - How do you think the movement of tectonic plates might influence natural disasters? (Activating prior knowledge - Reading Apprenticeship)
+   - What types of interactions can you predict between Earth's plates at their boundaries? (Purpose for reading - Reading Apprenticeship)
+   - What might be the consequences of the movement at different plate boundaries? (Purpose for reading - Reading Apprenticeship)
+   - How does Earth's structure below the lithosphere contribute to plate movements? (Purpose for reading - Reading Apprenticeship)
+
+2. **Higher-Order Prompts:**
+   - Consider how understanding plate tectonics can influence urban planning and disaster preparedness. (Critical approach - Disciplinary Literacy)
+   - Predict the long-term impacts of divergent boundaries on global geography. (Critical approach – Disciplinary Literacy)
+   - Think about the implications of plate tectonics on historical geography and cultural shifts through time. (Critical approach - Disciplinary Literacy)
+   - Reflect on how the theory of plate tectonics might intersect with other scientific fields, like oceanography or meteorology. (Critical approach - Disciplinary Literacy)
+   - How does the study of plate tectonics challenge or confirm your existing understanding of geological phenomena? (Metacognitive reflection - Reading Apprenticeship)
+
+#### In-Text Questions and Prompts
+
+3. **Annotations with Embedded Questions:**
+   - **Text Excerpt**: "Convergent boundaries occur when plates collide, resulting in subduction zones or continental uplift."
+     - **Question**: How do subduction zones and continental uplift differ in their geological impacts? (Science inquiry – Disciplinary Literacy)
+   - **Text Excerpt**: "Divergent boundaries form where plates move apart, allowing magma to rise and create new crust at mid-ocean ridges."
+     - **Question**: What might be the environmental consequences of creating new crust at divergent boundaries? (Causal reasoning - Disciplinary Literacy)
+   - **Text Excerpt**: "Transform boundaries involve plates sliding past each other horizontally, producing fault lines like California’s San Andreas Fault."
+     - **Question**: Why do transform boundaries result in significant seismic activity compared to other boundary types? (Inquiry process - Disciplinary Literacy)
+   - **Text Excerpt**: "Plate tectonics explains the distribution of continents, ocean basins, and the patterns of seismic activity observed worldwide."
+     - **Question**: How does this explanation account for the observable seismic activity we see globally? (Evidence connection - Disciplinary Literacy)
+   - **Text Excerpt**: "These rigid plates float on the semi-fluid asthenosphere..."
+     - **Question**: How does the interaction between the lithosphere and asthenosphere enable plate movements? (Logical reasoning – Disciplinary Literacy)
+
+4. **Annotations with Embedded Prompts:**
+   - **Text Excerpt**: "The theory of plate tectonics describes the large-scale movement of Earth's lithospheric plates."
+     - **Prompt**: Visualize and draw a diagram of plates moving at different types of boundaries. (Cognitive strategy - Reading Apprenticeship)
+   - **Text Excerpt**: "Convergent boundaries occur when plates collide..."
+     - **Prompt**: Create a list of real-world locations where convergent boundaries impact local geology. (Applying strategies - Disciplinary Literacy)
+   - **Text Excerpt**: "Divergent boundaries form where plates move apart..."
+     - **Prompt**: Model the role of magma in creating new crust with a hands-on experiment or digital simulation. (Science inquiry strategy - Disciplinary Literacy)
+   - **Text Excerpt**: "Transform boundaries involve plates sliding past each other..."
+     - **Prompt**: Use a case study of the San Andreas Fault to explore the societal impacts of seismic activity. (Connecting text to reality - Reading Apprenticeship)
+   - **Text Excerpt**: "These rigid plates float on the semi-fluid asthenosphere..."
+     - **Prompt**: Discuss in groups how the properties of the lithosphere and asthenosphere facilitate plate movement. (Social dimension - Reading Apprenticeship)
+
+#### After Reading Questions and Prompts
+
+5. **Reflective Questions:**
+   - How has your understanding of Earth's geology and related phenomena evolved with this reading? (Summarization - Reading Apprenticeship)
+   - In what ways does plate tectonic theory explain geological variability across different regions? (Synthesis - Disciplinary Literacy)
+   - Critically evaluate how well the text utilized evidence to support the mechanisms of plate tectonics. (Critical evaluation - Disciplinary Literacy)
+   - What are some potential applications of plate tectonic theory in addressing geological hazards? (Application - Disciplinary Literacy)
+   - Summarize the different boundary types and their primary geological consequences. (Summarization - Reading Apprenticeship)
+
+6. **Reflective Prompts:**
+   - Create a concept map illustrating the relationships between different plate boundaries and geological features. (Conceptual understanding - Disciplinary Literacy)
+   - Write a short reflection on how this reading on plate tectonics affects your view on natural disaster readiness. (Reflection - Reading Apprenticeship)
+   - Consider writing a brief position paper on how scientific understanding of plate tectonics should inform public policy. (Positioning and argumentation - Disciplinary Literacy)
+   - Develop a short presentation explaining how the study of plate tectonics can lead to better predictive models for earthquakes. (Presentation skills - Disciplinary Literacy)
+   - Reflect in a journal: How have your perceptions of Earth's surface processes changed? (Personal reflection - Reading Apprenticeship)
+
+This setup aims to guide students in a deep, structured engagement with scientific texts, using appropriately designed scaffolds that align with key educational frameworks.

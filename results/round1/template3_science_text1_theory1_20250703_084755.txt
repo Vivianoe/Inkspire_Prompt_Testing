@@ -1,0 +1,228 @@
+PROMPT:
+==============================
+You are an expert college science instructor with deep familiarity with two theoretical frameworks:
+The Reading Apprenticeship framework (Greenleaf et al., 2002)
+The Conceptual Framework for Disciplinary Literacy (Shanahan & Shanahan, 2012)
+Your goal is to generate high-quality questions, prompts, and annotations to scaffold students’ engagement with scientific texts.
+Please proceed step by step through the following tasks.
+🟢 Part 1: Carefully analyze the scientific text to:
+Identify the key concepts and ideas.
+Describe any causal reasoning or logical argumentation.
+Highlight the use of evidence, data, or examples that support claims.
+🟢 Part 2: Reading Apprenticeship Framework
+Step 1: Social Dimension
+Analyze the text through the lens of the Social Dimension.
+Generate questions that help create a safe and collaborative environment by encouraging students to share their reading processes, confusions, difficulties, problems, and solutions.
+Step 2: Personal Dimension
+Analyze the text through the lens of the Personal Dimension.
+Generate prompts that help students develop and extend their identities and self-awareness as readers, clarify their purposes for reading, and articulate personal goals for improving their reading practices.
+Step 3: Cognitive Dimension
+Analyze the text through the lens of the Cognitive Dimension.
+Generate prompts that encourage students to apply cognitive reading strategies, including:
+Getting the big picture
+Breaking down complex information
+Setting reading purposes and adjusting reading processes
+Monitoring comprehension
+Using problem-solving strategies to repair misunderstandings
+Step 4: Knowledge-Building Dimension
+Analyze the text through the lens of the Knowledge-Building Dimension.
+Generate 5 questions or prompts to help students identify, extend, and deepen their knowledge.
+Choose the approaches most relevant to the text, such as:
+Activating and building knowledge structures (schemata)
+Developing content and topic knowledge
+Expanding knowledge of word construction and vocabulary
+Developing knowledge of science text and language structures
+Building discipline-specific and discourse-specific understanding
+🟢 Part 3: Conceptual Framework for Disciplinary Literacy
+Using the Conceptual Framework for Disciplinary Literacy, analyze the science text and generate questions and prompts aligned with text-based science inquiry core constructs and learning goals.
+Step 1: Generate questions to guide students in close reading of science information to construct domain knowledge (including key scientific representations and discipline-specific language structures). Also generate questions that encourage metacomprehension and self-regulation.
+Step 2: Generate questions that ask students to synthesize science information from multiple sources.
+Step 3: Generate questions that guide students to construct explanations of core science phenomena described in the text, using science principles, frameworks, enduring understandings, crosscutting concepts, and evidence.
+Step 4: Generate questions that ask students to justify their explanations using appropriate scientific reasoning, including evaluating the quality and sufficiency of evidence.
+Step 5: Generate questions to guide students in critiquing explanations through the lens of scientific principles and frameworks.
+Step 6: Generate questions to help students reflect on the epistemology of science, including:
+Developing inquiry dispositions
+Cultivating conceptual change awareness
+Recognizing science as a process for solving authentic problems
+Tolerating ambiguity and seeking the best possible understanding given the evidence
+Considering significance, relevance, and feasibility of inquiry
+🟢 Part 3: Organize Outputs into Three Categories
+Combine the questions, prompts, and annotations generated from both frameworks into the following output structure.  For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to.
+Before Reading Questions and Prompts
+5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge.
+5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+In-Text Questions and Prompts
+5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes.
+For each annotation, provide the specific text excerpt and the related question.
+5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies during reading.
+For each annotation, provide the specific text excerpt and the related prompt.
+After Reading Questions and Prompts
+5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+Important: Ensure that all questions and prompts are specific, actionable, and clearly linked to the theoretical frameworks.
+Science Text:
+"""
+Title: Mechanism of the Greenhouse Effect
+“Greenhouse gases, such as carbon dioxide and methane, trap infrared radiation emitted by Earth’s surface. While visible sunlight passes through the atmosphere and warms the planet’s surface, the heat re-emitted by the Earth is partially absorbed and re-radiated by these gases in all directions. This process increases the average temperature of the lower atmosphere. Without the natural greenhouse effect, Earth's average surface temperature would be around –18°C rather than the current 15°C. However, the increase in atmospheric greenhouse gas concentrations due to human activities has enhanced this effect, leading to global warming.”
+
+"""
+Following the Theoretical Frameworks:
+"""
+# Names only
+Reading apprenticeship framework by Greenleaf et al. 2002; CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012
+"""
+
+RESULT:
+==============================
+## Part 1: Analysis of the Scientific Text
+
+### Key Concepts and Ideas
+- Greenhouse gases (carbon dioxide, methane) trap infrared radiation.
+- These gases re-radiate heat in all directions.
+- The natural greenhouse effect increases Earth's average temperature.
+- Human activities are enhancing this effect, leading to global warming.
+
+### Causal Reasoning and Logical Argumentation
+- The text presents a causal relationship: greenhouse gases trap infrared radiation, raising atmospheric temperature.
+- It contrasts natural versus human-enhanced greenhouse effects, implying negative consequences due to human activities.
+
+### Use of Evidence, Data, or Examples
+- Comparative temperature data: Without the natural greenhouse effect, the Earth’s temperature would be –18°C instead of 15°C, providing evidence of the greenhouse effect’s significance.
+- Mention of human activities increasing greenhouse gas concentrations as evidence for its enhancement and link to global warming.
+
+## Part 2: Reading Apprenticeship Framework
+
+### Step 1: Social Dimension
+
+#### Questions
+1. What parts of the text did you find most confusing or challenging, and why?
+2. Can someone share how they visualize the process of gases trapping infrared radiation?
+3. Did anyone find a particular sentence or concept that seemed to contradict what you previously knew?
+4. How do your personal experiences or knowledge contribute to understanding this text?
+5. How did you and your peers resolve any conflicting interpretations of the text?
+
+### Step 2: Personal Dimension
+
+#### Prompts
+1. Reflect on how your understanding of global warming might change after reading this text.
+2. Identify one personal reading goal you would like to achieve while studying this topic.
+3. Consider how this text impacts your identity as a science student—does it clarify or challenge your perspectives?
+4. What insights about your reading habits have you gained from engaging with this text?
+5. After reading, what are you now curious to learn more about regarding the greenhouse effect?
+
+### Step 3: Cognitive Dimension
+
+#### Prompts
+1. What is the main idea of this text paragraph? Summarize it in your own words.
+2. Break down the process of the greenhouse effect into a series of steps or stages.
+3. Why is it essential to understand both natural and human-enhanced effects on climate?
+4. Stop and assess your comprehension so far—do you need to reread any sections?
+5. If this explanation were unclear, what strategies would you use to clarify it?
+
+### Step 4: Knowledge-Building Dimension
+
+#### Questions and Prompts
+1. Can you relate this concept of the greenhouse effect to other atmospheric processes you know?
+2. How do the descriptions of temperature changes expand your understanding of global warming?
+3. What new vocabulary did you encounter, and how does it fit into your existing knowledge?
+4. How does understanding text structure help you predict content or develop deeper insights?
+5. What additional questions do you have about the greenhouse effect and its implications?
+
+## Part 3: Conceptual Framework for Disciplinary Literacy
+
+### Step 1: Close Reading and Metacomprehension Questions
+1. How does the text structure (cause and effect) contribute to your understanding of the greenhouse effect?
+2. What domain-specific terms did you identify, and how do they influence your interpretation of the greenhouse effect?
+3. How do you reflect on your understanding while reading the text, and what strategies help improve this comprehension?
+4. What scientific representations (data, examples) support the text’s claim about temperature changes?
+5. How do you regulate your comprehension when encountering dense scientific content?
+
+### Step 2: Synthesizing Information Questions
+1. How do findings in this text compare with what you've learned from other sources regarding climate change?
+2. Can you integrate this information with other disciplines, like economics or politics, to gain a broader understanding of global warming?
+3. How might different texts present varied perspectives or data on greenhouse gases?
+
+### Step 3: Constructing Explanations Questions
+1. Explain how the natural greenhouse effect operates based on the principles presented in the text.
+2. What enduring scientific understandings are necessary for grasping the implications of human-enhanced greenhouse effects?
+
+### Step 4: Justifying Explanations Questions
+1. Evaluate the quality of evidence provided for the greenhouse effect’s impact on temperature.
+2. How sufficient is the data presented in the text for supporting the claims of global warming?
+
+### Step 5: Critiquing Explanations Questions
+1. How might you critique the explanation of greenhouse gases’ role in global warming using current scientific principles?
+2. What counterarguments or evidence are missing from the text that would yield a more balanced understanding?
+
+### Step 6: Reflecting on Science Epistemology Questions
+1. How does this reading task promote inquiry and exploration within the science domain?
+2. In what ways could this text be seen as part of an ongoing scientific dialogue about climate change?
+3. How do you handle ambiguity in scientific communications, as in the case of complex processes like global warming?
+
+## Organized Outputs into Three Categories
+
+### Before Reading Questions and Prompts
+
+**Close Reading Questions**  
+1. What prior knowledge do you have about the greenhouse effect?
+2. What do you expect to learn from this text based on the title and subheadings?
+3. How might understanding the greenhouse effect influence your views on climate policy?
+4. Are you familiar with the terms "infrared radiation" and "methane" and their significance in this context?
+5. What questions do you have before reading that could guide your discovery process?
+
+**Higher-Order Prompts**
+1. Think critically about how you might challenge the author's claims.
+2. Identify the assumptions underlying the discussion of global warming.
+3. What analogies could you draw between the greenhouse effect and other ecological processes?
+4. How might biases or perspectives affect the presentation of information in this text?
+5. Approach this text with skeptical inquiry—what data or viewpoints might be oversimplified?
+
+### In-Text Questions and Prompts
+
+**Annotations with Embedded Questions**
+1. *Excerpt: "Greenhouse gases, such as carbon dioxide and methane, trap infrared radiation..."*  
+   - How does this trapping of infrared radiation contribute to increased temperatures?
+   
+2. *Excerpt: "While visible sunlight passes through the atmosphere..."*  
+   - What roles do visible sunlight and re-emitted infrared play in the earth's heat balance?
+   
+3. *Excerpt: "Without the natural greenhouse effect..."*  
+   - How does this temperature contrast emphasize the greenhouse effect’s importance?
+   
+4. *Excerpt: "However, the increase in atmospheric greenhouse gas..."*  
+   - What are the implications of human activities on climate dynamics as described here?
+   
+5. *Excerpt: "leading to global warming.”*  
+   - What evidence supports the conclusion of an anthropogenic influence leading to global warming?
+
+**Annotations with Embedded Prompts**
+1. *Excerpt: "Greenhouse gases, such as carbon dioxide and methane..."*  
+   - Consider what alternative greenhouse gases might have similar effects.
+   
+2. *Excerpt: "The process increases the average temperature..."*  
+   - Predict how future changes in gas levels could alter atmospheric temperatures.
+   
+3. *Excerpt: "Earth's average surface temperature would be around..."*  
+   - Reflect on how this temperature difference highlights the climate’s fragility.
+   
+4. *Excerpt: "Enhanced this effect, leading to global warming.”*  
+   - Imagine potential solutions to reverse or mitigate this enhanced greenhouse effect.
+   
+5. *Excerpt: "Leading to global warming.”*  
+   - Question how global warming might affect various Earth systems (oceans, ice caps).
+
+### After Reading Questions and Prompts
+
+**Reflective Questions**
+1. Summarize the main takeaways from the text in your own words.
+2. How does this text change your perception of climate science?
+3. What was the most compelling piece of evidence presented?
+4. How might you convey these concepts to someone unfamiliar with the greenhouse effect?
+5. What steps can you take next to deepen your understanding of this topic?
+
+**Reflective Prompts**
+1. Reflect on how your understanding has evolved after reading and discussing this text.
+2. Synthesize information from this text with prior knowledge to outline future learning goals.
+3. Reflect on the credibility of the evidence and logic used in the text's argumentation.
+4. How do you reconcile any conflicting ideas encountered during this reading?
+5. Identify areas where your understanding is still developing and consider how to address these gaps.

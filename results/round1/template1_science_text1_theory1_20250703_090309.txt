@@ -1,0 +1,125 @@
+PROMPT:
+==============================
+You are a science instructor preparing scaffolds for course readings.
+Given the following science texts and two theoretical frameworks, generate three categories of questions and prompts. For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to:
+Before Reading Questions and Prompts
+Generate:
+- 5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge relevant to the text.
+- 5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+In-Text Questions and Prompts
+Generate:
+- 5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes. For each annotation, provide the specific text excerpt and the related question.
+- 5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies while reading. For each annotation, provide the specific text excerpt and the related prompt.
+After Reading Questions and Prompts
+Generate:
+- 5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+- 5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+Important: Make sure your output is organized clearly under each section and that all questions and prompts are specific, actionable, and explicitly connected to both theoretical frameworks.
+that prompts  that help students identify claims, mechanisms, and assumptions
+Science Text:
+""" Title: Mechanism of the Greenhouse Effect
+“Greenhouse gases, such as carbon dioxide and methane, trap infrared radiation emitted by Earth’s surface. While visible sunlight passes through the atmosphere and warms the planet’s surface, the heat re-emitted by the Earth is partially absorbed and re-radiated by these gases in all directions. This process increases the average temperature of the lower atmosphere. Without the natural greenhouse effect, Earth's average surface temperature would be around –18°C rather than the current 15°C. However, the increase in atmospheric greenhouse gas concentrations due to human activities has enhanced this effect, leading to global warming.”
+"""
+Follow the following theoretical frameworks:
+"""
+# Names only
+Reading apprenticeship framework by Greenleaf et al. 2002; CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012 
+"""""
+
+RESULT:
+==============================
+**Before Reading Questions and Prompts**
+
+1. **Close Reading Questions:**
+   - What is the role of greenhouse gases in Earth's climate system?  
+   *(Corresponds to: Reading apprenticeship framework - Prior Knowledge Activation)*
+   - How does the greenhouse effect differ from the concept of global warming?  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Key Concept Identification)*
+   - What human activities are known to increase greenhouse gas concentrations?  
+   *(Corresponds to: Reading apprenticeship framework - Connecting to Personal and World Knowledge)*
+   - Why is it important to understand the mechanism of the greenhouse effect?  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Disciplinary Significance)* 
+   - What might be the ecological impacts of an enhanced greenhouse effect?  
+   *(Corresponds to: Reading apprenticeship framework - Predictive Inference)*
+
+2. **Higher-Order Prompts:**
+   - Consider existing evidence about the impact of greenhouse gases. How would you evaluate its credibility and relevance to the greenhouse effect?  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Epistemological Understanding)*
+   - Analyze the various perspectives on global warming. What biases might influence these viewpoints?  
+   *(Corresponds to: Reading apprenticeship framework - Perspective Evaluation and Bias Recognition)*
+   - What are some alternative theories to the greenhouse effect and how do they compare?  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Comparative Analysis)*
+   - How could changes in greenhouse gas concentrations impact global policy-making?  
+   *(Corresponds to: Reading apprenticeship framework - Real-world Application Consideration)*
+   - Develop a hypothesis on how a modification in one type of greenhouse gas would alter the atmospheric temperature.  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Hypothetical Reasoning)*
+
+**In-Text Questions and Prompts**
+
+1. **Annotations with Embedded Questions:**
+   - Text Excerpt: "Greenhouse gases, such as carbon dioxide and methane, trap infrared radiation emitted by Earth’s surface."
+     - Question: How do the properties of carbon dioxide and methane enable them to trap infrared radiation?  
+     *(Corresponds to: Reading apprenticeship framework - Scientific Inquiry Process)*
+   
+   - Text Excerpt: "While visible sunlight passes through the atmosphere and warms the planet’s surface..."
+     - Question: What are the differences in how visible sunlight and infrared radiation interact with the atmosphere?  
+     *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Analysis of Scientific Processes)*
+   
+   - Text Excerpt: "This process increases the average temperature of the lower atmosphere."
+     - Question: How is the lower atmosphere defined in this context, and why is its temperature crucial?  
+     *(Corresponds to: Reading apprenticeship framework - Contextual Understanding)*
+   
+   - Text Excerpt: "Without the natural greenhouse effect, Earth's average surface temperature would be around –18°C."
+     - Question: How is the impact of the natural greenhouse effect on Earth's temperature quantitatively determined?  
+     *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Quantitative Analysis)*
+   
+   - Text Excerpt: "the increase in atmospheric greenhouse gas concentrations due to human activities has enhanced this effect..."
+     - Question: What evidence is used to correlate human activities with increased greenhouse gas concentrations?  
+     *(Corresponds to: Reading apprenticeship framework - Evidence Evaluation)*
+
+2. **Annotations with Embedded Prompts:**
+   - Text Excerpt: "Greenhouse gases, such as carbon dioxide and methane, trap infrared radiation..."
+     - Prompt: Diagram the process by which infrared radiation is trapped by these gases. How does this visualization help you understand the process?  
+     *(Corresponds to: Reading apprenticeship framework - Visualization Strategy)*
+   
+   - Text Excerpt: "the heat re-emitted by the Earth is partially absorbed and re-radiated..."
+     - Prompt: Rewrite this process in your own words to ensure comprehension.  
+     *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Paraphrasing)*
+   
+   - Text Excerpt: "This process increases the average temperature of the lower atmosphere."
+     - Prompt: Predict how changes in one component of this process might alter the outcome, using a cause-and-effect diagram.  
+     *(Corresponds to: Reading apprenticeship framework - Predictive Modelling)*
+   
+   - Text Excerpt: "Without the natural greenhouse effect, Earth's average surface temperature would be..."
+     - Prompt: Compare and contrast the Earth’s current climate conditions with those described if the greenhouse effect didn’t exist.  
+     *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Comparative Thinking)*
+   
+   - Text Excerpt: "enhanced this effect, leading to global warming."
+     - Prompt: Summarize the steps that lead from the enhanced greenhouse effect to global warming in a flow chart.  
+     *(Corresponds to: Reading apprenticeship framework - Summarization and Synthesis)*
+
+**After Reading Questions and Prompts**
+
+1. **Reflective Questions:**
+   - How does the information in the text align with or differ from your previous understanding of the greenhouse effect?  
+   *(Corresponds to: Reading apprenticeship framework - Reflection on Prior Knowledge)*
+   - What are the potential limitations or weaknesses in the arguments presented in the text?  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Critical Evaluation)*
+   - How might the enhanced greenhouse effect influence future scientific research and technological development?  
+   *(Corresponds to: Reading apprenticeship framework - Forward-thinking Analysis)*
+   - What further questions do you have about the greenhouse effect after reading this text?  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Inquiry Generation)*
+   - How does understanding the greenhouse effect impact your perspective on environmental issues?  
+   *(Corresponds to: Reading apprenticeship framework - Personal Connection and Application)*
+
+2. **Reflective Prompts:**
+   - Write a reflective journal entry summarizing the key concepts you learned about the greenhouse effect and their significance.  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Summarization Activity)*
+   - Create a mind map that integrates the information from the text with related concepts from other disciplines.  
+   *(Corresponds to: Reading apprenticeship framework - Integration Across Disciplines)*
+   - Draft a letter to a policymaker emphasizing the importance of addressing enhanced greenhouse gas effects, using evidence from the text.  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Argumentation Practice)*
+   - Reflect on the potential societal impacts of global warming and propose individual actions to mitigate these.  
+   *(Corresponds to: Reading apprenticeship framework - Societal Impact Reflection)*
+   - Develop a set of questions for a class discussion on the implications of the greenhouse effect on future climate scenarios.  
+   *(Corresponds to: Conceptual Framework for Disciplinary Literacy - Discussion Facilitation)*

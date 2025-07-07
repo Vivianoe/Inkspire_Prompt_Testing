@@ -1,0 +1,151 @@
+PROMPT:
+==============================
+You are a science instructor preparing scaffolds for course readings.
+Given the following science texts and two theoretical frameworks, generate three categories of questions and prompts. For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to:
+Before Reading Questions and Prompts
+Generate:
+- 5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge relevant to the text.
+- 5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+In-Text Questions and Prompts
+Generate:
+- 5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes. For each annotation, provide the specific text excerpt and the related question.
+- 5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies while reading. For each annotation, provide the specific text excerpt and the related prompt.
+After Reading Questions and Prompts
+Generate:
+- 5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+- 5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+Important: Make sure your output is organized clearly under each section and that all questions and prompts are specific, actionable, and explicitly connected to both theoretical frameworks.
+that prompts  that help students identify claims, mechanisms, and assumptions
+Science Text:
+""" Title: Mechanism of the Greenhouse Effect
+Title: Emergence of Antibiotic Resistance
+Antibiotic resistance arises when bacteria evolve mechanisms to survive exposure to antibiotics that previously killed them or inhibited their growth. Resistance can occur through spontaneous genetic mutations or horizontal gene transfer, such as the exchange of plasmids carrying resistance genes. The widespread and often inappropriate use of antibiotics in medicine and agriculture accelerates this process by applying selective pressure that favors resistant strains. As resistant bacteria proliferate, infections become harder to treat, requiring higher doses or alternative therapies. The rise of multidrug-resistant pathogens poses a significant public health threat, prompting global efforts to develop new antibiotics and implement stewardship programs to curb misuse.
+
+"""
+Follow the following theoretical frameworks:
+"""
+# Names only
+Reading apprenticeship framework by Greenleaf et al. 2002; CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012 
+"""""
+
+RESULT:
+==============================
+Before Reading Questions and Prompts
+
+**5 Close Reading Questions:**
+
+1. **What are the key terms related to antibiotic resistance, and what do you already know about them from previous studies?**  
+   *Framework: Reading Apprenticeship (Activating Prior Knowledge), Disciplinary Literacy (Identifying Specialized Vocabulary).*
+
+2. **How does the mechanism by which bacteria acquire antibiotic resistance compare to other biological processes you have learned about?**  
+   *Framework: Reading Apprenticeship (Connecting to Prior Learning), Disciplinary Literacy (Content-Specific Processes).*
+
+3. **Why might the concept of 'selective pressure' be significant in the context of antibiotic resistance?**  
+   *Framework: Reading Apprenticeship (Establishing Purpose), Disciplinary Literacy (Understanding Discipline-Specific Concepts).*
+
+4. **In what ways do you think human actions influence the development of antibiotic-resistant strains?**  
+   *Framework: Reading Apprenticeship (Building Relevance), Disciplinary Literacy (Relating Scientific Concepts to Human Activity).*
+
+5. **What are some public health challenges that arise from antibiotic resistance based on what you've heard or read previously?**  
+   *Framework: Reading Apprenticeship (Contextualizing the Issue), Disciplinary Literacy (Applying Text to Real-World Problems).*
+
+**5 Higher-Order Prompts:**
+
+1. **Consider what biases or assumptions might affect current antimicrobial practices and policies. How would these impact the strategies discussed in the text?**  
+   *Framework: Reading Apprenticeship (Critical Thinking), Disciplinary Literacy (Recognizing Bias and Assumptions).*
+
+2. **What scientific principles underlie the transfer and mutation mechanisms of antibiotic resistance described in the text?**  
+   *Framework: Disciplinary Literacy (Analyzing Text through Scientific Principles).*
+
+3. **Discuss the potential ethical considerations of antibiotic use in agriculture and medicine. How do these considerations influence your reading?**  
+   *Framework: Reading Apprenticeship (Ethical Reflection), Disciplinary Literacy (Evaluating Ethical Implications).*
+
+4. **Predict how advancements in genetic technologies might impact future developments in antibiotic resistance.**  
+   *Framework: Reading Apprenticeship (Predictive Thinking), Disciplinary Literacy (Applying Future-Oriented Inquiry).*
+
+5. **Reflect on your understanding of scientific advancements. How might the historical context of antibiotic development shape your interpretation of the text?**  
+   *Framework: Reading Apprenticeship (Historical Contextualization), Disciplinary Literacy (Incorporating Historical Perspectives).*
+
+In-Text Questions and Prompts
+
+**5 Annotations with Embedded Questions:**
+
+1. **Text Excerpt: "Resistance can occur through spontaneous genetic mutations..."**  
+   **Question: How does the process of genetic mutation in bacteria compare to genetic mutations in other organisms?**  
+   *Framework: Reading Apprenticeship (Comparing Phenomena), Disciplinary Literacy (Analyzing Scientific Concepts).*
+
+2. **Text Excerpt: "The widespread and often inappropriate use of antibiotics..."**  
+   **Question: What evidence does the text provide about the relationship between human practices and bacterial resistance?**  
+   *Framework: Reading Apprenticeship (Evidence Evaluation), Disciplinary Literacy (Text-Model Evidence).*
+
+3. **Text Excerpt: "As resistant bacteria proliferate, infections become harder to treat..."**  
+   **Question: How could this amplification of resistance impact hospitals and healthcare systems globally?**  
+   *Framework: Reading Apprenticeship (Implication Prediction), Disciplinary Literacy (Societal Impact Evaluation).*
+
+4. **Text Excerpt: "prompting global efforts to develop new antibiotics..."**  
+   **Question: What challenges might scientists face in developing new antibiotics in response to resistant strains?**  
+   *Framework: Reading Apprenticeship (Innovative Inquiry), Disciplinary Literacy (Projecting Scientific Challenges).*
+
+5. **Text Excerpt: "the exchange of plasmids carrying resistance genes."**  
+   **Question: How does plasmid exchange highlight the complexity of combating antibiotic resistance?**  
+   *Framework: Reading Apprenticeship (Complexity Analysis), Disciplinary Literacy (Biological Mechanism Understanding).*
+
+**5 Annotations with Embedded Prompts:**
+
+1. **Text Excerpt: "Resistance can occur through spontaneous genetic mutations or horizontal gene transfer."**  
+   **Prompt: Visualize or diagram these processes. How do they contribute differently to the development of resistance?**  
+   *Framework: Reading Apprenticeship (Visualization Techniques), Disciplinary Literacy (Differentiating Scientific Mechanisms).*
+
+2. **Text Excerpt: "selective pressure that favors resistant strains."**  
+   **Prompt: Think about selective pressure in other contexts. What natural or artificial selective pressures influence these systems?**  
+   *Framework: Reading Apprenticeship (Relation to Other Concepts), Disciplinary Literacy (Understanding Selection Processes).*
+
+3. **Text Excerpt: "The rise of multidrug-resistant pathogens poses a significant public health threat..."**  
+   **Prompt: Consider how different countries might respond to this challenge. How could these responses vary based on resources?**  
+   *Framework: Reading Apprenticeship (Cultural Contextualization), Disciplinary Literacy (Comparative Analysis).*
+
+4. **Text Excerpt: "implement stewardship programs to curb misuse."**  
+   **Prompt: Explore the specific components of a successful stewardship program based on your understanding of antibiotic use.**  
+   *Framework: Reading Apprenticeship (Program Analysis), Disciplinary Literacy (Programmatic Components Evaluation).*
+
+5. **Text Excerpt: "alternative therapies."**  
+   **Prompt: Research one alternative therapy and evaluate its potential effectiveness and limitations in combating resistant bacteria.**  
+   *Framework: Reading Apprenticeship (Research Skills), Disciplinary Literacy (Critical Evaluation of Alternatives).*
+
+After Reading Questions and Prompts
+
+**5 Reflective Questions:**
+
+1. **How has your understanding of antibiotic resistance mechanisms changed after reading the text? What key insights have you gained?**  
+   *Framework: Reading Apprenticeship (Reflective Comprehension), Disciplinary Literacy (Concept Synthesis).*
+
+2. **What is the most compelling piece of evidence presented, and why is it significant to the discussion of antibiotic resistance?**  
+   *Framework: Reading Apprenticeship (Evidence Valuation), Disciplinary Literacy (Critical Evidence Focus).*
+
+3. **In what ways does this text challenge or reinforce your pre-existing beliefs about antibiotic use and resistance?**  
+   *Framework: Reading Apprenticeship (Reflective Self-Assessment), Disciplinary Literacy (Belief Examination).*
+
+4. **Identify any assumptions the authors make about future solutions to antibiotic resistance. Which of these do you agree or disagree with, and why?**  
+   *Framework: Reading Apprenticeship (Assumption Evaluation), Disciplinary Literacy (Prognostic Assumption Analysis).*
+
+5. **Summarize how this text connects to broader discussions in biology and public health you have encountered.**  
+   *Framework: Reading Apprenticeship (Broader Connection Making), Disciplinary Literacy (Interdisciplinary Integration).*
+
+**5 Reflective Prompts:**
+
+1. **Create a concept map that illustrates the idea of antibiotic resistance using the main ideas from the text. How does this enhance your understanding?**  
+   *Framework: Reading Apprenticeship (Concept Mapping), Disciplinary Literacy (Visual Integration of Knowledge).*
+
+2. **Draft an argument that defends or opposes the widespread use of antibiotics in agriculture based on the text’s information.**  
+   *Framework: Reading Apprenticeship (Argumentation Skills), Disciplinary Literacy (Evidence-Based Argument).*
+
+3. **Reflect on how reading this text with a focus on scientific inquiry deepens your appreciation for the complexities of biological systems.**  
+   *Framework: Reading Apprenticeship (Appreciative Reflection), Disciplinary Literacy (Systemic Complexity Understanding).*
+
+4. **Evaluate your reading strategies and their effectiveness in comprehending challenging scientific texts like this one.**  
+   *Framework: Reading Apprenticeship (Self-Assessment of Strategies), Disciplinary Literacy (Strategic Competence Evaluation).*
+
+5. **Discuss the implications of antibiotic resistance on future scientific research priorities and directions.**  
+   *Framework: Reading Apprenticeship (Research Implication Discussion), Disciplinary Literacy (Priority Projection).*
+
+These questions and prompts are designed to engage students deeply with the content, fostering their scientific literacy and critical thinking within the frameworks provided.

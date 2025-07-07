@@ -1,0 +1,143 @@
+PROMPT:
+==============================
+You are a science instructor preparing scaffolds for course readings.
+Given the following science texts and two theoretical frameworks, generate three categories of questions and prompts. For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to:
+Before Reading Questions and Prompts
+Generate:
+- 5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge relevant to the text.
+- 5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+In-Text Questions and Prompts
+Generate:
+- 5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes. For each annotation, provide the specific text excerpt and the related question.
+- 5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies while reading. For each annotation, provide the specific text excerpt and the related prompt.
+After Reading Questions and Prompts
+Generate:
+- 5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+- 5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+Important: Make sure your output is organized clearly under each section and that all questions and prompts are specific, actionable, and explicitly connected to both theoretical frameworks.
+that prompts  that help students identify claims, mechanisms, and assumptions
+Science Text:
+""" Title: Mechanism of the Greenhouse Effect
+Title: Mechanisms of Plate Tectonics
+The theory of plate tectonics describes the large-scale movement of Earth's lithospheric plates. These rigid plates float on the semi-fluid asthenosphere and interact at plate boundaries, leading to geological phenomena such as earthquakes, mountain building, and volcanic activity. Convergent boundaries occur when plates collide, resulting in subduction zones or continental uplift. Divergent boundaries form where plates move apart, allowing magma to rise and create new crust at mid-ocean ridges. Transform boundaries involve plates sliding past each other horizontally, producing fault lines like California’s San Andreas Fault. Plate tectonics explains the distribution of continents, ocean basins, and the patterns of seismic activity observed worldwide.
+
+"""
+Follow the following theoretical frameworks:
+"""
+# Names only
+Reading apprenticeship framework by Greenleaf et al. 2002; CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012 
+"""""
+
+RESULT:
+==============================
+### Before Reading Questions and Prompts
+
+#### Close Reading Questions
+1. **Question**: What do you already know about the forces behind the movement of Earth's lithospheric plates?
+   - *Framework & Dimension*: Reading Apprenticeship - "Connecting knowledge"
+
+2. **Question**: How do you think volcanic activity is related to plate tectonics?
+   - *Framework & Dimension*: Disciplinary Literacy - "Understanding texts within context"
+
+3. **Question**: Can you recall any real-world examples of seismic activity that might be explained by plate tectonics?
+   - *Framework & Dimension*: Reading Apprenticeship - "Building on what you know"
+
+4. **Question**: What are the different types of plate boundaries, and what do you predict the text will say about their characteristics?
+   - *Framework & Dimension*: Disciplinary Literacy - "Predicting scientific explanations"
+
+5. **Question**: Why is understanding plate tectonics important for identifying patterns in seismic activity worldwide?
+   - *Framework & Dimension*: Reading Apprenticeship - "Activating scientific purposes"
+
+#### Higher-Order Prompts
+1. **Prompt**: As you prepare to read, think about how plate tectonics might inform our understanding of past geological events and future predictions.
+   - *Framework & Dimension*: Disciplinary Literacy - "Critical evaluation strategies"
+
+2. **Prompt**: Consider how the role of the semi-fluid asthenosphere is pivotal to the movement of the rigid lithospheric plates.
+   - *Framework & Dimension*: Reading Apprenticeship - "Analytical reading strategies"
+
+3. **Prompt**: Reflect on how human activities might be influenced or affected by the mechanisms described in plate tectonics.
+   - *Framework & Dimension*: Disciplinary Literacy - "Socio-scientific implications"
+
+4. **Prompt**: Question the text as you read; who benefits from this scientific knowledge and who could potentially be at risk?
+   - *Framework & Dimension*: Reading Apprenticeship - "Inquiry and questioning"
+
+5. **Prompt**: Approach the text by challenging yourself to identify any assumptions underlying the theory of plate tectonics.
+   - *Framework & Dimension*: Disciplinary Literacy - "Identifying assumptions"
+
+### In-Text Questions and Prompts
+
+#### Annotations with Embedded Questions
+1. **Text Excerpt**: "The theory of plate tectonics describes the large-scale movement of Earth's lithospheric plates."
+   - **Question**: What evidence does the text provide to support this description?
+   - *Framework & Dimension*: Disciplinary Literacy - "Evaluating evidence"
+
+2. **Text Excerpt**: "These rigid plates float on the semi-fluid asthenosphere and interact at plate boundaries..."
+   - **Question**: How does the interaction at different boundaries explain geographical phenomena?
+   - *Framework & Dimension*: Reading Apprenticeship - "Engaging in scientific inquiry"
+
+3. **Text Excerpt**: "Convergent boundaries occur when plates collide, resulting in subduction zones or continental uplift."
+   - **Question**: What might be the long-term effects of these processes on Earth's geology?
+   - *Framework & Dimension*: Disciplinary Literacy - "Understanding scientific processes"
+
+4. **Text Excerpt**: "Divergent boundaries form where plates move apart, allowing magma to rise and create new crust..."
+   - **Question**: How does this process contribute to the cycle of rock formation?
+   - *Framework & Dimension*: Reading Apprenticeship - "Linking to scientific cycles"
+
+5. **Text Excerpt**: "Transform boundaries involve plates sliding past each other horizontally..."
+   - **Question**: What are the geophysical consequences of these movements for nearby human settlements?
+   - *Framework & Dimension*: Disciplinary Literacy - "Applying scientific knowledge"
+
+#### Annotations with Embedded Prompts
+1. **Text Excerpt**: "Convergent boundaries occur when plates collide..."
+   - **Prompt**: Visualize a cross-section diagram of a subduction zone and consider the layers involved.
+   - *Framework & Dimension*: Reading Apprenticeship - "Visualizing reading content"
+
+2. **Text Excerpt**: "Divergent boundaries form where plates move apart..."
+   - **Prompt**: Compare this description to what you've previously learned about ocean trench formation.
+   - *Framework & Dimension*: Reading Apprenticeship - "Making connections"
+
+3. **Text Excerpt**: "The distribution of continents, ocean basins..."
+   - **Prompt**: Create a mental map of the Earth's major plates and predict how they might interact.
+   - *Framework & Dimension*: Disciplinary Literacy - "Mental mapping strategies"
+
+4. **Text Excerpt**: "Volcanic activity is a result of..."
+   - **Prompt**: Draw inferences on how volcanic activity can impact climate and ecosystems both temporarily and over time.
+   - *Framework & Dimension*: Disciplinary Literacy - "Drawing scientific inferences"
+
+5. **Text Excerpt**: "Explain the distribution of continents..."
+   - **Prompt**: Synthesize this information by formulating hypotheses on how these processes might look over millions of years.
+   - *Framework & Dimension*: Disciplinary Literacy - "Formulating hypotheses"
+
+### After Reading Questions and Prompts
+
+#### Reflective Questions
+1. **Question**: How has your understanding of Earth's geological processes expanded after reading?
+   - *Framework & Dimension*: Reading Apprenticeship - "Reflecting on learning"
+
+2. **Question**: What are the implications of plate tectonics in understanding natural disasters?
+   - *Framework & Dimension*: Disciplinary Literacy - "Evaluating socio-scientific issues"
+   
+3. **Question**: In what ways do new scientific discoveries refine or challenge our understanding of plate tectonics?
+   - *Framework & Dimension*: Disciplinary Literacy - "Understanding evolving scientific knowledge"
+
+4. **Question**: How might this reading inform strategies for disaster preparedness in tectonically active areas?
+   - *Framework & Dimension*: Reading Apprenticeship - "Practical application of scientific concepts"
+
+5. **Question**: What further questions do you now have about geological processes and their impact on Earth?
+   - *Framework & Dimension*: Reading Apprenticeship - "Generating new questions"
+
+#### Reflective Prompts
+1. **Prompt**: Summarize the key mechanisms of plate tectonics discussed in the text and consider their significance.
+   - *Framework & Dimension*: Disciplinary Literacy - "Summarizing scientific information"
+
+2. **Prompt**: Evaluate the author's presentation of evidence supporting the theory; did it convincingly support the claims?
+   - *Framework & Dimension*: Reading Apprenticeship - "Critical evaluation"
+
+3. **Prompt**: Reflect on how this reading aligns or contrasts with other scientific theories of how the Earth works.
+   - *Framework & Dimension*: Disciplinary Literacy - "Contextual comparison"
+
+4. **Prompt**: Discuss how your perspective on Earth's dynamism has changed after engaging with this text.
+   - *Framework & Dimension*: Reading Apprenticeship - "Reflecting on perspective changes"
+
+5. **Prompt**: Plan an experimental inquiry or project that could test the concepts discussed in plate tectonics.
+   - *Framework & Dimension*: Disciplinary Literacy - "Designing scientific inquiry"

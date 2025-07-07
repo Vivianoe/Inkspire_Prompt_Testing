@@ -1,0 +1,120 @@
+PROMPT:
+==============================
+You are an expert college science instructor with deep knowledge of the Reading Apprenticeship framework (Greenleaf et al., 2002) and the Conceptual Framework for Disciplinary Literacy (Shanahan & Shanahan, 2012). Your goal is to create high-quality scaffolds to support students’ engagement with scientific texts.
+Please complete the following tasks step by step:
+Step 1: Carefully analyze the scientific text to:
+Identify the key concepts and ideas.
+Describe any causal reasoning or logical argumentation.
+Highlight the use of evidence, data, or examples that support claims.
+Step 2: Using insights from both the Reading Apprenticeship framework and the Conceptual Framework for Disciplinary Literacy, design scaffolding questions, prompts, and annotations. Ensure that each item clearly aligns with specific elements of these frameworks and supports disciplinary literacy development.
+Step 3: Based on your analysis and theoretical alignment, generate three categories of questions and prompts. For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to:
+Before Reading Questions and Prompts
+Generate:
+- 5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge relevant to the text.
+- 5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+In-Text Questions and Prompts
+Generate:
+- 5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes. For each annotation, provide the specific text excerpt and the related question.
+- 5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies while reading. For each annotation, provide the specific text excerpt and the related prompt.
+After Reading Questions and Prompts
+Generate:
+- 5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+- 5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+Important: Make sure your output is organized clearly under each section and that all questions and prompts are specific, actionable, and explicitly connected to both theoretical frameworks.
+that prompts  that help students identify claims, mechanisms, and assumptions
+Science Text:
+"""
+Title: Mechanism of the Greenhouse Effect
+“Greenhouse gases, such as carbon dioxide and methane, trap infrared radiation emitted by Earth’s surface. While visible sunlight passes through the atmosphere and warms the planet’s surface, the heat re-emitted by the Earth is partially absorbed and re-radiated by these gases in all directions. This process increases the average temperature of the lower atmosphere. Without the natural greenhouse effect, Earth's average surface temperature would be around –18°C rather than the current 15°C. However, the increase in atmospheric greenhouse gas concentrations due to human activities has enhanced this effect, leading to global warming.”
+
+"""
+Theoretical Frameworks:
+"""
+# Names only
+Reading apprenticeship framework by Greenleaf et al. 2002; CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012
+"""
+
+RESULT:
+==============================
+To effectively scaffold student engagement with the scientific text "Mechanism of the Greenhouse Effect," we will use the Reading Apprenticeship framework and the Conceptual Framework for Disciplinary Literacy to create targeted questions and prompts. These strategies will help students build disciplinary literacy by focusing on key scientific processes and concepts while developing metacognitive skills.
+
+**Step 1: Analysis of Scientific Text**
+
+1. **Key Concepts and Ideas:**
+   - Greenhouse gases (e.g., carbon dioxide, methane)
+   - Infrared radiation trapping
+   - Visible sunlight and Earth’s re-emission of heat
+   - Natural greenhouse effect compared to anthropogenic global warming
+
+2. **Causal Reasoning and Logical Argumentation:**
+   - Explanation of how greenhouse gases trap heat, maintaining Earth’s temperature.
+   - The role human activities play in increasing greenhouse gases, thereby enhancing the natural greenhouse effect.
+
+3. **Evidence, Data, or Examples:**
+   - Temperature comparison: Without the greenhouse effect, Earth's average would be –18°C versus the current 15°C.
+
+**Step 2: Designing Scaffolding Questions, Prompts, and Annotations**
+
+These are aligned with the theoretical frameworks to support students' understanding of disciplinary literacy.
+
+**Step 3: Categories of Questions and Prompts**
+
+**Before Reading Questions and Prompts**
+
+- **Close Reading Questions:**
+  1. What do you already know about greenhouse gases and their effect on Earth's temperature? *(Reading Apprenticeship: Activating Prior Knowledge)*
+  2. Can you think of any examples of how human activities might increase greenhouse gas concentrations? *(Disciplinary Literacy: Connecting to Real-World Contexts)*
+  3. What is the difference between visible sunlight and infrared radiation in the context of this article? *(Reading Apprenticeship: Preparing to Identify Key Concepts)*
+  4. How do you expect the text to explain the relationship between greenhouse gases and global warming? *(Reading Apprenticeship: Setting a Purpose for Reading)*
+  5. Why is it important to understand the mechanism of the greenhouse effect? *(Disciplinary Literacy: Establishing Relevance and Importance)*
+
+- **Higher-Order Prompts:**
+  1. Predict how this text might interrelate the concepts of radiation and atmospheric gases. *(Disciplinary Literacy: Developing Predictive Reading Skills)*
+  2. Consider how changes in one part of this described mechanism might affect the whole system. *(Reading Apprenticeship: System Thinking)*
+  3. As you read, consider how this explanation compares to other explanations of climate change you've encountered. *(Disciplinary Literacy: Critical Comparison and Evaluation)*
+  4. Think about the potential counterarguments or limitations to the explanations offered in the text. *(Disciplinary Literacy: Critical Questioning)*
+  5. What questions do you have about the effects of increased greenhouse gases before reading? *(Reading Apprenticeship: Inquiry Approach)*
+
+**In-Text Questions and Prompts**
+
+- **Annotations with Embedded Questions:**
+  1. **Text Excerpt:** "Greenhouse gases, such as carbon dioxide and methane, trap infrared radiation emitted by Earth’s surface."
+     - **Question:** How do these gases specifically trap infrared radiation? *(Science Inquiry: Mechanistic Understanding)*
+  2. **Text Excerpt:** "While visible sunlight passes through the atmosphere and warms the planet’s surface..."
+     - **Question:** Why can visible sunlight pass through the atmosphere more easily than infrared radiation? *(Disciplinary Literacy: Understanding Scientific Phenomena)*
+  3. **Text Excerpt:** "The heat re-emitted by the Earth is partially absorbed and re-radiated by these gases..."
+     - **Question:** What might happen if this absorption and re-radiation did not occur? *(Causal Reasoning: Exploring Hypotheticals)*
+  4. **Text Excerpt:** "Without the natural greenhouse effect, Earth's average surface temperature would be around –18°C."
+     - **Question:** What evidence supports this temperature estimation? *(Evidence-Based Reasoning)*
+  5. **Text Excerpt:** "The increase in atmospheric greenhouse gas concentrations due to human activities has enhanced this effect, leading to global warming."
+     - **Question:** What specific human activities contribute to this increase? *(Disciplinary Literacy: Connecting to Human Impact)*
+
+- **Annotations with Embedded Prompts:**
+  1. **Text Excerpt:** "Greenhouse gases... trap infrared radiation..."
+     - **Prompt:** Annotate how this trapping connects to the notion of energy balance. *(Reading Strategies: Making Connections)*
+  2. **Text Excerpt:** "The heat re-emitted by the Earth is partially absorbed and re-radiated by these gases..."
+     - **Prompt:** Draw a diagram to visualize this process as you read. *(Science Inquiry: Visual Representation)*
+  3. **Text Excerpt:** "Without the natural greenhouse effect, Earth's average surface temperature would be around –18°C..."
+     - **Prompt:** Jot down why this temperature contrast is significant as you progress through the text. *(Reading Strategies: Noting Significance)*
+  4. **Text Excerpt:** "However, the increase in atmospheric greenhouse gas concentrations..."
+     - **Prompt:** As you read, list human activities that might correlate with this increase. *(Reading Strategies: Developing Lists and Relationships)*
+  5. **Text Excerpt:** "Leading to global warming."
+     - **Prompt:** Consider how this conclusion impacts broader environmental policies. *(Science Inquiry: Applying Contextual Understanding)*
+
+**After Reading Questions and Prompts**
+
+- **Reflective Questions:**
+  1. How has this text altered your understanding of global warming? *(Reading Apprenticeship: Reflective Metacognition)*
+  2. What are the implications of the greenhouse effect on future climate policy? *(Disciplinary Literacy: Application to Policy)*
+  3. Can you identify assumptions made in the text regarding the role of human activities? *(Critical Evaluation of Assumptions)*
+  4. How would you summarize the mechanism of the greenhouse effect in your own words? *(Reading Apprenticeship: Summarizing Skills)*
+  5. What additional questions do you now have about the greenhouse effect and global warming? *(Inquiry-Based Learning)*
+
+- **Reflective Prompts:**
+  1. Write a brief summary of the key points and mechanisms described. *(Summarization and Synthesis Skills)*
+  2. Discuss how understanding this text could influence your views on environmental responsibility. *(Disciplinary Literacy: Personal Connection)*
+  3. Reflect on any gaps in the data presented and how they might be addressed in future research. *(Reading Apprenticeship: Identifying Gaps)*
+  4. Explore how this information might be communicated to someone unfamiliar with the topic. *(Disciplinary Literacy: Communication Skills)*
+  5. Consider writing a short reflection on how this text connects with other topics you’ve studied related to climate science. *(Intertextual Connections)*
+
+These questions and prompts are designed to cultivate a deep, analytical, and reflective engagement with the text, using insights from the Reading Apprenticeship framework and the Conceptual Framework for Disciplinary Literacy.

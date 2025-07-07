@@ -1,0 +1,259 @@
+PROMPT:
+==============================
+You are an expert college science instructor with deep familiarity with two theoretical frameworks:
+The Reading Apprenticeship framework (Greenleaf et al., 2002)
+The Conceptual Framework for Disciplinary Literacy (Shanahan & Shanahan, 2012)
+Your goal is to generate high-quality questions, prompts, and annotations to scaffold students’ engagement with scientific texts.
+Please proceed step by step through the following tasks.
+🟢 Part 1: Carefully analyze the scientific text to:
+Identify the key concepts and ideas.
+Describe any causal reasoning or logical argumentation.
+Highlight the use of evidence, data, or examples that support claims.
+🟢 Part 2: Reading Apprenticeship Framework
+Step 1: Social Dimension
+Analyze the text through the lens of the Social Dimension.
+Generate questions that help create a safe and collaborative environment by encouraging students to share their reading processes, confusions, difficulties, problems, and solutions.
+Step 2: Personal Dimension
+Analyze the text through the lens of the Personal Dimension.
+Generate prompts that help students develop and extend their identities and self-awareness as readers, clarify their purposes for reading, and articulate personal goals for improving their reading practices.
+Step 3: Cognitive Dimension
+Analyze the text through the lens of the Cognitive Dimension.
+Generate prompts that encourage students to apply cognitive reading strategies, including:
+Getting the big picture
+Breaking down complex information
+Setting reading purposes and adjusting reading processes
+Monitoring comprehension
+Using problem-solving strategies to repair misunderstandings
+Step 4: Knowledge-Building Dimension
+Analyze the text through the lens of the Knowledge-Building Dimension.
+Generate 5 questions or prompts to help students identify, extend, and deepen their knowledge.
+Choose the approaches most relevant to the text, such as:
+Activating and building knowledge structures (schemata)
+Developing content and topic knowledge
+Expanding knowledge of word construction and vocabulary
+Developing knowledge of science text and language structures
+Building discipline-specific and discourse-specific understanding
+🟢 Part 3: Conceptual Framework for Disciplinary Literacy
+Using the Conceptual Framework for Disciplinary Literacy, analyze the science text and generate questions and prompts aligned with text-based science inquiry core constructs and learning goals.
+Step 1: Generate questions to guide students in close reading of science information to construct domain knowledge (including key scientific representations and discipline-specific language structures). Also generate questions that encourage metacomprehension and self-regulation.
+Step 2: Generate questions that ask students to synthesize science information from multiple sources.
+Step 3: Generate questions that guide students to construct explanations of core science phenomena described in the text, using science principles, frameworks, enduring understandings, crosscutting concepts, and evidence.
+Step 4: Generate questions that ask students to justify their explanations using appropriate scientific reasoning, including evaluating the quality and sufficiency of evidence.
+Step 5: Generate questions to guide students in critiquing explanations through the lens of scientific principles and frameworks.
+Step 6: Generate questions to help students reflect on the epistemology of science, including:
+Developing inquiry dispositions
+Cultivating conceptual change awareness
+Recognizing science as a process for solving authentic problems
+Tolerating ambiguity and seeking the best possible understanding given the evidence
+Considering significance, relevance, and feasibility of inquiry
+🟢 Part 3: Organize Outputs into Three Categories
+Combine the questions, prompts, and annotations generated from both frameworks into the following output structure.  For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to.
+Before Reading Questions and Prompts
+5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge.
+5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+Output in the following example format:
+'''
+**Before Reading Questions and Prompts**
+- **Close Reading Questions:**
+  1. What do you already know about greenhouse gases and their effect on Earth's temperature? *(Reading Apprenticeship: Activating Prior Knowledge)*
+  2. Can you think of any examples of how human activities might increase greenhouse gas concentrations? *(Disciplinary Literacy: Connecting to Real-World Contexts)*
+  3. What is the difference between visible sunlight and infrared radiation in the context of this article? *(Reading Apprenticeship: Preparing to Identify Key Concepts)*
+  4. How do you expect the text to explain the relationship between greenhouse gases and global warming? *(Reading Apprenticeship: Setting a Purpose for Reading)*
+  5. Why is it important to understand the mechanism of the greenhouse effect? *(Disciplinary Literacy: Establishing Relevance and Importance)*
+- **Higher-Order Prompts:**
+  1. Predict how this text might interrelate the concepts of radiation and atmospheric gases. *(Disciplinary Literacy: Developing Predictive Reading Skills)*
+  2. Consider how changes in one part of this described mechanism might affect the whole system. *(Reading Apprenticeship: System Thinking)*
+  3. As you read, consider how this explanation compares to other explanations of climate change you've encountered. *(Disciplinary Literacy: Critical Comparison and Evaluation)*
+  4. Think about the potential counterarguments or limitations to the explanations offered in the text. *(Disciplinary Literacy: Critical Questioning)*
+  5. What questions do you have about the effects of increased greenhouse gases before reading? *(Reading Apprenticeship: Inquiry Approach)*
+'''
+In-Text Questions and Prompts
+5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes.
+For each annotation, provide the specific text excerpt and the related question.
+5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies during reading.
+For each annotation, provide the specific text excerpt and the related prompt.
+Output in the following example format:
+'''In-Text Questions and Prompts
+- Annotations with Embedded Questions:
+  1. Text Excerpt:** "Greenhouse gases, such as carbon dioxide and methane, trap infrared radiation emitted by Earth’s surface."
+     - **Question:** How do these gases specifically trap infrared radiation? *(Disciplinary Literacy: Mechanistic Understanding)*
+  2. ...
+- **Annotations with Embedded Prompts:**
+  1. **Text Excerpt:** "Greenhouse gases... trap infrared radiation..."
+     - **Prompt:** Annotate how this trapping connects to the notion of energy balance. *(Disciplinary Literacy: Making Connections)*
+  2. ...
+'''
+After Reading Questions and Prompts
+5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+Output in the following example format:
+'''
+**After Reading Questions and Prompts**
+- **Reflective Questions:**
+  1. How has this text altered your understanding of global warming? *(Reading Apprenticeship: Reflective Metacognition)*
+  2. What are the implications of the greenhouse effect on future climate policy? *(Disciplinary Literacy: Application to Policy)*
+  3. Can you identify assumptions made in the text regarding the role of human activities? *(Disciplinary Literacy: Critical Evaluation of Assumptions)*
+  4. How would you summarize the mechanism of the greenhouse effect in your own words? *(Reading Apprenticeship: Summarizing Skills)*
+  5. What additional questions do you now have about the greenhouse effect and global warming? *(Reading Apprenticeship: Knowledge Buidling)*
+- **Reflective Prompts:**
+  1. Write a brief summary of the key points and mechanisms described. *(Summarization and Synthesis Skills)*
+  2. Discuss how understanding this text could influence your views on environmental responsibility. *(Disciplinary Literacy: Personal Connection)*
+  3. Reflect on any gaps in the data presented and how they might be addressed in future research. *(Reading Apprenticeship: Identifying Gaps)*
+  4. Explore how this information might be communicated to someone unfamiliar with the topic. *(Disciplinary Literacy: Communication Skills)*
+  5. Consider writing a short reflection on how this text connects with other topics you’ve studied related to climate science. *(Disciplinary Literacy: Intertextual Connections)*
+'''
+Important: Ensure that all questions and prompts are specific, actionable, and clearly linked to the theoretical frameworks.
+Science Text:
+"""
+Title: Mechanisms of Plate Tectonics
+The theory of plate tectonics describes the large-scale movement of Earth's lithospheric plates. These rigid plates float on the semi-fluid asthenosphere and interact at plate boundaries, leading to geological phenomena such as earthquakes, mountain building, and volcanic activity. Convergent boundaries occur when plates collide, resulting in subduction zones or continental uplift. Divergent boundaries form where plates move apart, allowing magma to rise and create new crust at mid-ocean ridges. Transform boundaries involve plates sliding past each other horizontally, producing fault lines like California’s San Andreas Fault. Plate tectonics explains the distribution of continents, ocean basins, and the patterns of seismic activity observed worldwide.
+
+"""
+Following the Theoretical Frameworks:
+"""
+# Names only
+Reading apprenticeship framework by Greenleaf et al. 2002; CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012
+"""
+
+RESULT:
+==============================
+To address your tasks within the provided frameworks, I'll guide you through the process step by step, centering on the science text about plate tectonics.
+
+### 🟢 Part 1: Analysis of the Scientific Text
+
+**Key Concepts and Ideas:**
+- Movement of Earth's lithospheric plates on the asthenosphere.
+- Types of plate boundaries: convergent, divergent, transform.
+- Geological phenomena resulting from plate interactions: earthquakes, mountain building, volcanic activity.
+- Explanation of the distribution of continents and ocean basins, patterns of seismic activity.
+
+**Causal Reasoning/Logical Argumentation:**
+- The interaction of plates at boundaries causes geological phenomena (e.g., collision forms mountains or subduction zones).
+- Divergence of plates results in new crust formation, explaining mid-ocean ridges.
+
+**Use of Evidence, Data, or Examples:**
+- Examples: Convergent boundaries (subduction zones, uplift), divergent boundaries (new crust formation at ridges), transform boundaries (fault lines).
+
+### 🟢 Part 2: Reading Apprenticeship Framework
+
+#### Step 1: Social Dimension
+**Questions:**
+1. What challenges do you anticipate when trying to visualize the movement of tectonic plates based on this text?
+2. Can you share moments when you’ve seen geological phenomena, such as mountains or volcanic activity, and wondered about their origins?
+3. What collaborative strategies could we use to map out the different types of plate boundaries on a diagram?
+4. How do you feel about discussing these concepts with peers who might have different understandings or experiences?
+5. What reading strategies do you find helpful when tackling complex texts like this?
+
+#### Step 2: Personal Dimension
+**Prompts:**
+1. Reflect on your interest in geological phenomena and how this affects your motivation to understand plate tectonics.
+2. What goals do you have for improving your reading skills in scientific texts about Earth's processes?
+3. How does understanding plate tectonics align with your broader educational or career goals?
+4. Consider how you react to new concepts. How might your personal experiences with earthquakes or volcanoes influence your reading?
+5. What questions come to mind about Earth’s geological processes that you’d like to answer by reading this text?
+
+#### Step 3: Cognitive Dimension
+**Prompts:**
+1. Summarize the main types of plate boundaries described in the text and their characteristics.
+2. Develop a step-by-step outline of how convergence leads to mountain building or subduction zones.
+3. As you read, focus on identifying cause-and-effect relationships presented in the text.
+4. When you come across the term "asthenosphere," pause and consider how its properties affect plate movement.
+5. If the description of transform boundaries doesn't make sense, what strategies might you use to clarify this?
+
+#### Step 4: Knowledge-Building Dimension
+**Questions/Prompts:**
+1. What prior knowledge do you have about Earth's layers that could help you understand the movement of lithospheric plates?
+2. Identify how the text explains the creation of new crust and where this typically occurs.
+3. Explain how the concept of plate tectonics contributes to our understanding of seismic activity distribution.
+4. Explore the vocabulary used in the text—how do terms like "subduction" or "rift" enhance your understanding?
+5. Analyze the structure of the text. How does it guide your understanding of complex geological processes?
+
+### 🟢 Part 3: Conceptual Framework for Disciplinary Literacy
+
+#### Step 1: Close Reading Questions
+1. How does the asthenosphere facilitate the movement of the lithospheric plates?
+2. What are the distinguishing features of each type of plate boundary mentioned in the text?
+3. How does the text use specific examples to explain the effects of plate interactions?
+4. What language or terms in the text are specific to the study of geology or tectonics?
+5. As you read, how do you check your understanding of the different geological phenomena described?
+
+#### Step 2: Synthesis Questions
+1. In what ways do external sources of data, like maps or geological surveys, complement the information in this text?
+2. How might you compare this text’s explanation of plate tectonics with other scientific theories regarding Earth’s structure?
+3. Identify similar patterns of geological phenomena in diverse locations worldwide and consider how they relate to the text.
+
+#### Step 3: Explanation Construction
+1. Construct an explanation of how subduction causes volcanic activity using evidence from the text.
+2. How does the concept of plate tectonics explain the geographic features of continents and ocean basins?
+
+#### Step 4: Justification of Explanations
+1. Evaluate the evidence supporting the explanation of transform boundaries and fault line formation.
+2. How sufficient is the data in this text for describing the process of mountain building?
+
+#### Step 5: Critique Explanations
+1. What other scientific frameworks could further explicate the text’s claims on seismic activity?
+2. Which areas of the text lack detail or evidence, and how might this impact its scientific validity?
+
+#### Step 6: Epistemology Reflection
+1. Reflect on how learning about plate tectonics can alter your disposition towards scientific inquiry.
+2. Discuss the dynamic process of scientific understanding in geology and how this text contributes.
+3. Consider the significance of continuous research in understanding Earth’s geological processes.
+
+### 🟢 Combined Outputs
+
+**Before Reading Questions and Prompts**
+- **Close Reading Questions:**
+  1. What initial understanding do you have about tectonic plates and their movements? *(Reading Apprenticeship: Activating Prior Knowledge)*
+  2. Why is it important to study the geological processes occurring at plate boundaries? *(Disciplinary Literacy: Establishing Relevance and Importance)*
+  3. How do you think the movement of tectonic plates affects the surface features of the Earth? *(Reading Apprenticeship: Setting a Purpose for Reading)*
+  4. Can you recall any real-world events, like earthquakes, that relate to the content of this text? *(Reading Apprenticeship: Connecting to Real-World Contexts)*
+  5. How do you predict the text will explain the relationship between different types of plate movements and geological phenomena? *(Disciplinary Literacy: Developing Predictive Reading Skills)*
+
+- **Higher-Order Prompts:**
+  1. As you read, predict the implications of tectonic plate interactions on future geological studies or developments. *(Disciplinary Literacy: Critical Prediction Skills)*
+  2. Consider the interconnectivity of different plate boundaries and predict how a change in one could affect others globally. *(Reading Apprenticeship: System Thinking)*
+  3. Think about alternative theories or explanations for the phenomena described. How might these compare? *(Disciplinary Literacy: Critical Comparison and Evaluation)*
+  4. Determine the potential limitations or weaknesses in the arguments presented in the text. *(Disciplinary Literacy: Critical Questioning)*
+  5. Generate questions about the mechanisms of plate tectonics that arise before reading the full text. *(Reading Apprenticeship: Inquiry Approach)*
+
+**In-Text Questions and Prompts**
+- **Annotations with Embedded Questions:**
+  1. **Text Excerpt:** "These rigid plates float on the semi-fluid asthenosphere..."
+     - **Question:** How does the physical state of the asthenosphere support the movement of tectonic plates? *(Disciplinary Literacy: Mechanistic Understanding)*
+  2. **Text Excerpt:** "Convergent boundaries occur when plates collide..."
+     - **Question:** What evidence does the text provide to support the idea of subduction at convergent boundaries? *(Reading Apprenticeship: Evidence-Based Inquiry)*
+  3. **Text Excerpt:** "Transform boundaries involve plates sliding past each other horizontally..."
+     - **Question:** How do these movements contribute to the creation of fault lines? *(Disciplinary Literacy: Causal Reasoning)*
+  4. **Text Excerpt:** "Divergent boundaries form where plates move apart..."
+     - **Question:** What processes occur at mid-ocean ridges according to the text? *(Reading Apprenticeship: Process Identification)*
+  5. **Text Excerpt:** "Plate tectonics explains the distribution of continents..."
+     - **Question:** How does this explanation account for the observed patterns of seismic activity? *(Disciplinary Literacy: Connecting Concepts)*
+
+- **Annotations with Embedded Prompts:**
+  1. **Text Excerpt:** "These rigid plates float on the semi-fluid asthenosphere..."
+     - **Prompt:** Visualize and annotate how differences in the physical properties of Earth’s layers facilitate plate movement. *(Reading Apprenticeship: Visualization Skills)*
+  2. **Text Excerpt:** "Convergent boundaries occur when plates collide..."
+     - **Prompt:** Identify key terms related to boundary interactions and record your understanding. *(Disciplinary Literacy: Vocabulary Development)*
+  3. **Text Excerpt:** "Transform boundaries involve plates sliding past each other horizontally..."
+     - **Prompt:** Draw a diagram to help clarify how transform boundaries lead to fault line formation. *(Reading Apprenticeship: Diagrammatic Representation)*
+  4. **Text Excerpt:** "Divergent boundaries form where plates move apart..."
+     - **Prompt:** Analyze and note how the formation of new crust at divergent boundaries supports continued geological activity. *(Disciplinary Literacy: Process Analysis)*
+  5. **Text Excerpt:** "Plate tectonics explains the distribution of continents..."
+     - **Prompt:** Consider and annotate how a change in one geographical feature might impact global seismic patterns. *(Reading Apprenticeship: Holistic Thinking)*
+
+**After Reading Questions and Prompts**
+- **Reflective Questions:**
+  1. How has this text refined your understanding of the types of plate boundaries? *(Reading Apprenticeship: Reflective Metacognition)*
+  2. What geological implications arise from the theory of plate tectonics? *(Disciplinary Literacy: Application to Geological Implications)*
+  3. Are there assumptions in the text about how the Earth’s lithosphere behaves? Identify and evaluate them. *(Disciplinary Literacy: Critical Evaluation of Assumptions)*
+  4. Can you succinctly explain the process of subduction in your words? *(Reading Apprenticeship: Summarizing Skills)*
+  5. What new questions do you have now about Earth’s tectonic activities? *(Reading Apprenticeship: Knowledge Building)*
+
+- **Reflective Prompts:**
+  1. Summarize the main geological processes related to plate tectonics described in the text. *(Summarization and Synthesis Skills)*
+  2. Reflect on personal experiences with earthquakes or volcanoes in light of this reading. *(Disciplinary Literacy: Personal Connection)*
+  3. Identify data gaps and consider how future geological research might address them. *(Reading Apprenticeship: Identifying Gaps)*
+  4. Think about how you would communicate these concepts to someone unfamiliar with geology. *(Disciplinary Literacy: Communication Skills)*
+  5. Compare this text with previous materials on geological processes you’ve encountered. *(Disciplinary Literacy: Intertextual Connections)*
+
+These structured questions and prompts aim to deepen understanding, promote critical thinking, and link students' learning to both the Reading Apprenticeship framework and the Conceptual Framework for Disciplinary Literacy.
