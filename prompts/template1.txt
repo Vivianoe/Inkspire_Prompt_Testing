@@ -1,0 +1,48 @@
+# Template 1: Baseline Minimal Prompt (Control)
+# 🟢 Technique: Zero-shot, minimal instruction
+# Purpose: This template serves as a baseline control for educational content generation
+# Usage: The {text} placeholder will be replaced with the actual science text content
+# Usage: The {theory} placeholder will be replaced with the theoretical framework description
+# Style: Educational framework with structured output requirements
+
+You are a science instructor preparing scaffolds for course readings.
+
+Given the following science texts and two theoretical frameworks, generate three categories of questions and prompts. For each question, prompt, or annotation, clearly indicate which theoretical framework(s) and dimension(s) it corresponds to:
+
+Before Reading Questions and Prompts
+Generate:
+
+- 5 close reading questions designed to guide students’ overall purpose for reading and activate prior knowledge relevant to the text.
+
+- 5 higher-order prompts that offer strategies to approach the reading critically and thoughtfully.
+
+In-Text Questions and Prompts
+Generate:
+
+- 5 annotations with embedded questions that anchor students in the text while prompting them to engage in science inquiry processes. For each annotation, provide the specific text excerpt and the related question.
+
+- 5 annotations with embedded prompts that guide students to apply general reading strategies and science inquiry strategies while reading. For each annotation, provide the specific text excerpt and the related prompt.
+
+After Reading Questions and Prompts
+Generate:
+
+- 5 reflective questions to help students summarize, synthesize, and critically evaluate the reading.
+
+- 5 reflective prompts offering guidance on how to reflect effectively and consolidate understanding.
+
+Important: Make sure your output is organized clearly under each section and that all questions and prompts are specific, actionable, and explicitly connected to both theoretical frameworks.
+
+that prompts  that help students identify claims, mechanisms, and assumptions
+
+Science Text:
+""" Title: Mechanism of the Greenhouse Effect
+{text}
+
+"""
+
+Follow the following theoretical frameworks:
+"""
+{theory} 
+"""""
+
+# End of Template 1

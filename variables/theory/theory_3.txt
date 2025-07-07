@@ -1,0 +1,162 @@
+# Names + detailed description + examples
+
+Theoretical framework 1: 
+Name: Reading apprenticeship framework by Greenleaf et al. 2002;
+Description: 
+In a Reading Apprenticeship, the teacher serves as a "master" reader of subject-area texts to his or her student apprentices, paralleling the role of a more proficient "expert" in descriptions of socially mediated cognitive apprenticeships (e.g., Bayer, 1990; Brown et al., 1989; Lee, 1995). This instruction takes place in the process of teaching subject-area content, rather than as an instructional add-on or additional curriculum. Briefly summarized, Reading Apprenticeship involves teachers and their students as partners in a collaborative inquiry into reading and reading processes as they engage with subject-area texts (see Schoenbach et al., 1999, ch. 2, for a more complete description of the model). This instructional framework explicitly draws on students’ strengths and abilities to provide crucial resources for the inquiry partnership.
+
+The aim of Reading Apprenticeship is to help students become better readers of a variety of texts by making the teacher’s discipline-based reading processes and knowledge visible to students; by making the students’ reading processes and the social contexts, strategies, knowledge, and understandings they bring to the task of making sense of subject-matter texts visible to the teacher and to one another; by helping students gain insight into their own reading processes; and by helping them acquire a repertoire of problem-solving strategies with the varied texts of the academic discipline. In other words, how we read and why we read in the ways we do become part of the curriculum, accompanying what we read in subject-matter classes.
+
+As depicted in Figure 1, Reading Apprenticeship involves teachers in orchestrating and integrating four interacting dimensions of classroom life in order to draw on adolescents’ particular strengths and help them develop the knowledge, strategies, and dispositions they need to become more powerful readers:
+
+Social:
+This dimension of community-building in the classroom includes developing a safe environment for students to share their confusion and difficulties with texts and recognizing the diverse perspectives and resources brought by each member (see, e.g., Alvermann & Moore, 1991; Moje, Dillon, & O’Brien, 2000). Together, teacher and students build interest in books and reading, a community of readers, and a culture of reading (e.g., Allen, 1995; Atwell, 1998; Burke, 2000; Wilhelm, 1997). Work in this dimension draws on adolescents’ interests in larger social, political, economic, and cultural issues through explorations of the relationships between literacy and different types of power in society.
+
+Personal:
+This dimension includes developing and extending students’ identities and self-awareness as readers; their purposes for reading; and their own goals for reading improvement, including increasing reading fluency and comfort with a variety of texts (e.g., Beers & Samuels, 1998; Stahl, 1998). It also includes developing students’ sense of agency in a variety of ways: students are given frequent choices about the books they will read, invited to connect personal experiences to texts, asked to bring in examples of out-of-school texts that matter to them, supported in setting and working toward fluency and other reading goals, given assistance to develop and express preferences for reading materials, and asked to assess how well their reading strategies are serving their own needs as readers. Work in this dimension draws on students’ strategic skills used in out-of-school settings, as well as their interest in exploring new aspects of their own identities (see Davidson & Koppenhaver, 1993).
+
+Cognitive:
+The cognitive dimension, frequently the entire focus of reading comprehension instruction, is only one aspect of life in a Reading Apprenticeship classroom. Work in this dimension includes developing readers’ mental processes, including their repertoire of specific comprehension and problem-solving strategies such as rereading, questioning, paraphrasing or summarizing, and the like (e.g., Beers & Samuels, 1998; Brown, Palincsar, & Armbruster, 1994; Fitzgerald, 1995; Keene & Zimmerman, 1997; Kucan & Beck, 1997). Importantly, the work of unveiling cognitive strategies that can support reading comprehension is carried out through classroom inquiry (see Wells & Chang-Wells, 1992).
+
+Knowledge-Building:
+This dimension includes identifying and expanding the kinds of knowledge readers bring to a text and then further develop through personal and social interaction with that text. This includes knowledge about word construction, vocabulary, text structure, genre, and language (e.g., Beck et al., 1997; Berkowitz, 1986; Taylor, 1992; Templeton et al., 1996); knowledge about the topics and content embedded in the text (e.g., Anderson, 1994; Bransford, 1994); and knowledge about the disciplinary conversation or social discourse in which the text is situated (e.g., Gee, 1992; Rabinowitz & Smith, 1998).
+
+Examples: Teacher Questions and Prompts Aligned with the Reading Apprenticeship Framework
+Imagine you are in a college-level science course (e.g., Biology or Environmental Science). You’re reading a scientific article about climate change. The instructor uses the four Reading Apprenticeship dimensions to guide questions and prompts:
+
+🟩 1. Social Dimension
+Goal: Create a safe environment for sharing confusions, perspectives, and strategies.
+
+“As you read this article, what parts did you find confusing or difficult to follow? Let’s share those so we can see if others had similar questions.”
+
+“Does anyone have a different interpretation of this paragraph? Let’s hear a few perspectives.”
+
+“Who can share a time when you read something similar? How did you figure it out then?”
+
+🟦 2. Personal Dimension
+Goal: Develop and extend students’ identities, purposes, and goals as readers.
+
+“Before we start reading, think about why you personally are interested in this topic. What are you hoping to learn from this text?”
+
+“How does this article connect to your own experiences or beliefs about climate change?”
+
+“Which parts of this reading feel most relevant to your goals as a science student?”
+
+🟨 3. Cognitive Dimension
+Goal: Encourage students to use specific comprehension and problem-solving strategies.
+
+“Let’s pause after this paragraph. Who can paraphrase what the author is saying here in your own words?”
+
+“If you feel lost, try rereading the last sentence. What strategy can you use to break it down?”
+
+“What are some key terms you might underline or define to help your understanding?”
+
+“Pause here—how is the evidence used to support the claim? Can you identify the reasoning?”
+
+🟧 4. Knowledge-Building Dimension
+Goal: Help students build content, language, and disciplinary knowledge.
+
+“What prior knowledge do you have about greenhouse gases that helps you understand this section?”
+
+“Look at how the author uses the term ‘feedback loop.’ How would you define this based on the context?”
+
+“How does this text’s structure help you follow the argument?”
+
+“What additional information would you need to fully evaluate the evidence presented here?”
+
+
+
+Theoretical framework 2:
+Name: CONCEPTUAL FRAMEWORK FOR DISCIPLINARY LITERACY by Shanahan & Shanahan, 2012
+Description:
+The framework focused on inquiry practices related to reading and interpreting scientific texts, including data representations, diagrams, dynamic visualizations, and models, rather than also attempting to include the design of experiments and training for measurement and data collecting and analysis, which have been the focus of many other science reform projects. In other words, the core constructs of interest in the context of the READI project are those important to what Magnusson and Palincsar (2001) called “second-hand inquiry.”
+
+Science Core Constructs 
+Epistemology. Our characterization of the epistemology of science emphasized the tentative and iterative nature of efforts to explain phenomena that occur in the natural world (e.g., Br aten et al., 2011; Chinn, Buckland, & Samarapungavan, 2011). Specifically, the epistemology core construct for science describes it as an attempt to build understandings of the natural as well as designed (engineered) worlds through constructed models and theories that are approximations that have limitations. These understandings are socially constructed, using peer critique and public dissemination, to create explanations that are based on sound empirical data and that are parsimonious and logically cohesive. However, scientific findings are subject to revision over time and successive empirical efforts that reflect changes in technology, theories and paradigms, and cultural norms. 
+Inquiry practices and strategies. Consistent with the epistemology, science inquiry practices build scientific knowledge by developing coherent, logical explanations, models or arguments from evidence (e.g., Chinn & Malhotra, 2002; Duschl & Osborne, 2002). In practice, development of explanations and models entails consideration of what are the bounds of the phenomena and what elements and interactions should be included in an explanation or model. Evidence is subject to evaluation through processes of internal and external corroboration or convergence. In practice development of science explanations and models includes evaluation of reliability of evidence and consideration of which evidence to use. It also entails consideration of multiple forms of representations and models, evaluating which forms may best support explication of novel phenomena. Thus, arguments advancing or challenging an explanation or model may address the reliability of the evidence, the scope of evidence, the scope of explanation, and the form of representation or model, as well as how it accounted for the evidence.
+Overarching concepts, themes, and frameworks. Evidence is warranted and connected to claims through principles emanating from frameworks, key concepts, and themes that reflect unifying or general concepts and themes in science, sometimes called enduring understandings (College Board Standards for College Success, 2009). More recently the Next Generation Science Standards (NGSS Lead States, 2013) identified cross-cutting concepts, as well as disciplinary core ideas in life sciences; physical sciences; earth and space sciences; and engineering, technology, and applications of science. For example, crosscutting concepts are patterns; cause and effect; scale, proportion, and quantity; systems and system models; energy and matter in systems; structure and function; and stability and change of systems.
+Representational forms. Science uses a variety of prototypical ways of structuring and presenting scientific information. Representational forms include tables, graphs, equations, diagrams, schematics (e.g., flowcharts), simulations, models, and exposition and narrative in oral and written text (e.g., Cromley et al., 2010; Lemke, 1998; van den Broek, 2010). Furthermore, there can be a variety of explanatory purposes for the represented information. These include the expression of cause/effect, correlation, problem/solution, sequence, comparison, exemplification, descriptive classification, definition, and proposition/support of an information representation. Lemke (1998) pointed out that multiple representational forms are necessary to adequately capture the variety of relationships and interactions scientists seek to describe (e.g., continuous change, covariation, categorical differences and classification, codistribution, topological aspects of the world). He characterized language as being particularly well suited for “the formulation of difference and relationship, for the making of categorical distinctions” but “poorer (though hardly bankrupt)” for capturing a variety of other types of relationships, including, for example, quantity, continuous change, varying proportionality, and complex topological relations” (Lemke, 1998, p. 89). Furthermore, different genres of science information are written for different audiences and purposes, and these have implications for their content and structure (Goldman & Bisanz 2002). Examples of different science genres that are typically meant for those within the science community include raw data, bench notes, journals, personal communications (e.g., interviews, e-mails, conversations), refereed journal articles, and integrative pieces (e.g., handbook chapters, review articles). Genres used for communication with the general public include press releases, news briefs, online articles, and other popular press pieces. Trade books, websites, and blogs may be intended for both audiences. Typical genres used in science education include informational texts that give background about a topic, laboratory procedures, websites, science journals written for student, and simulations. Although textbooks are probably the first genre that comes to mind when thinking about science education, we see these as problematic in that although they can provide background information, they tend to do so in a manner that does not support an inquiry stance toward science. Thus we are not advocating them as a primary genre for use in text-based investigations, although they may be useful in the same way that encyclopedias are useful. However, the plentiful diagrams, data tables, and models in science textbooks can be useful when positioned as resources for inquiry into a phenomenon.
+Discourse and language structures. Prototypical language structures in science can be contrasted with the language structures of narrative, a genre with which adolescents are highly familiar. Science text tends to contain a much higher use of nominalizations, passive voice, and technical and specialized expressions due to the compression and density of ideas conveyed as well as the high value placed on objectivity (Fang & Schleppegrel, 2010; C. D. Lee & Spratley, 2010). Science discourse also indicates the degree of certainty, generalizability, and precision of statements through specific lexical forms and expressions. Particular text structures are associated with specific genres, and the organization of information and categories of information found within a particular discourse will reflect this. One form of scientific discourse that is particularly relevant in the present context is the explanatory argument and the particular linguistic features of it, including claims, scientific principles, and descriptions of methods used to establish the reliability of the processes used to create the evidence (Bazerman, 1998; Berland & Reiser, 2009; Cavagnetto, 2010; Driver et al., 2000; Passmore & Svoboda, 2012). Each of these has particular conventionalized linguistic expressions for their communication.
+Learning goals. The six READI science learning goals are provided in Table 4. They convey the reading and reasoning processes of text-based inquiry as appropriate to the science core construct knowledge, skills, and practices. That is, these processes constitute text-based inquiry that enables students to figure out how and why a phenomenon happens and the evidence that supports these claims. Note that in our work with text-based science investigations, we have particularly emphasized comprehending and constructing explanatory models of phenomena (see Braaten & Windschitl, 2011; Pluta, Chinn, & Duncan, 2011). These explanatory arguments correspond to the integrated model level in the expanded model of reading but rely on textbase and situation model representations of single texts. They reflect our foregoing synthesis of the literature on science argumentation and the challenges adolescents experience in doing science inquiry and comprehending the representational forms and discourse of science. Because text-based investigation in science is largely unfamiliar to teachers and students, the learning goals and core constructs were particularly helpful in designing semester-long instructional sequences. Students first learn to close read science texts, including graphs and models as well as traditional print, with attention to linguistic and visual conventions that have particular conceptual, evidentiary, and explanatory importance for scientific thinking and reasoning. These experiences create a basis from which to engage students in using texts to construct explanatory models. To support this process, an important part of the design of the instructional sequences was sequencing texts to support building explanatory models. Synthesis, construction, and justification from a sequence of texts involves conscious attention to ways in which information in successive texts changes conceptions of the how and why of phenomena and/or poses new questions that need to be addressed and for which information resources need to be found. A second design decision stemming from a clear explication of the learning goals, core constructs, and starting points with text was to focus on texts and text sequences that were complementary to one another and from which students would be able to build an explanatory model. Thus, to date our work has not involved having students engage with texts for purposes of deciding between alternative explanatory accounts for a phenomenon, between positive versus negative evaluative judgments about some science-related phenomenon (e.g., cell phones are or are not hazardous to health) or about policies related to politically sensitive issues such as climate change. Evaluative and policy arguments can take students away from the fundamental science and into socioscientific argumentation, where economic, social, political, moral, and ethical concerns often weigh heavily (Sadler & Donnelly, 2006). Although socioscientific argumentation is an important type of argumentation critical for decision making and policy evaluation, we made a conscious decision to focus on explanatory arguments for science phenomena. Thus, READI text-based investigations address the fundamental science that science teachers are accountable for teaching in middle and high school science classes, including the reformulation of standards in terms of cross-cutting concepts and disciplinary core ideas (NGSS Lead States, 2013).
+Learning goals for Text-Based Science Inquiry include: 1. Engage in close reading of science information to construct domain knowledge, including multiple representations characteristic of the discipline and language learning strategies. Close reading encompasses metacomprehension and self-regulation of the process. 2. Synthesize science information from multiple text sources. 3. Construct explanations of science phenomena (explanatory models) using science principles, frameworks, enduring understandings, crosscutting concepts, and scientific evidence. 4. Justify explanations using science principles, frameworks and enduring understandings, cross-cutting concepts, and scientific evidence. (Includes evaluating the quality of the evidence.) 5. Critique explanations using science principles, frameworks and enduring understandings, cross-cutting concepts, and scientific evidence. 6. Demonstrate understanding of epistemology of science through inquiry dispositions and conceptual change awareness/orientation (intentionally building and refining key concepts through multiple encounters with text); seeing science as a means to solve problems and address authentic questions about scientific problems, tolerating ambiguity and seeking “best understandings given the evidence,” considering significance, relevance, magnitude and feasibility of inquiry.
+
+Examples: Teacher Questions and Prompts Aligned with the Conceptual Framework for Disciplinary Literacy
+The goal is to help students build disciplinary literacy, which means learning to read, think, and reason as scientists do. These prompts emphasize text-based inquiry, explanation, and critique.
+
+🟩 1. Close Reading and Domain Knowledge
+Purpose: Support students to build science-specific knowledge and monitor comprehension.
+
+“What is the central claim or conclusion in this section? What evidence does the author provide?”
+
+“How does this figure or diagram help you understand the process being described?”
+
+“Underline any terms that are specific to scientific discourse. How would you define them in your own words?”
+
+“As you read, jot down any questions that arise about the methods or results.”
+
+“Pause and summarize this paragraph out loud. What key idea did the author communicate?”
+
+🟦 2. Synthesizing Across Sources
+Purpose: Integrate information from multiple texts or representations.
+
+“How does this article’s perspective compare with what you read in the previous study?”
+
+“What similarities and differences do you notice between the evidence presented here and in the textbook?”
+
+“What patterns emerge when you look across the text, tables, and figures?”
+
+“How would you reconcile any conflicting information among these sources?”
+
+“Create a diagram that combines key findings from all the materials we’ve read on this topic.”
+
+🟨 3. Constructing Explanations
+Purpose: Guide students to build explanatory models using disciplinary frameworks.
+
+“Using evidence from the text, how would you explain the relationship between CO2 levels and species migration?”
+
+“Which scientific principles help make sense of this phenomenon?”
+
+“Develop a brief written explanation that connects this data to the broader climate change models we’ve studied.”
+
+“How does this explanation align with or challenge what you already knew?”
+
+“What crosscutting concepts—such as cause and effect or systems thinking—are important here?”
+
+🟧 4. Justifying Explanations
+Purpose: Support students to justify claims with evidence and disciplinary reasoning.
+
+“What specific evidence supports your explanation?”
+
+“How would you evaluate the strength and reliability of this evidence?”
+
+“Why do you think this evidence is more convincing than other possible sources?”
+
+“What assumptions underlie the author’s argument? Are they justified?”
+
+“How could you defend your explanation to someone who disagrees?”
+
+🟪 5. Critiquing Explanations
+Purpose: Help students evaluate the quality of explanations and arguments.
+
+“What are the strengths and weaknesses of the author’s explanation?”
+
+“Is there enough evidence to support the claim? Why or why not?”
+
+“What alternative explanations could account for this phenomenon?”
+
+“How would you redesign the study to address any gaps or limitations?”
+
+“Which parts of the reasoning are most persuasive to you? Least persuasive?”
+
+🟫 6. Epistemology of Science
+Purpose: Encourage students to reflect on how scientific knowledge is developed and revised.
+
+“How does this article illustrate the process of scientific inquiry?”
+
+“What does this study reveal about how scientific knowledge evolves over time?”
+
+“How does uncertainty or ambiguity play a role in the conclusions?”
+
+“What questions remain unanswered, and why is that significant?”
+
+“How could new evidence or perspectives change our current understanding?”
